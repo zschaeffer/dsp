@@ -108,8 +108,8 @@ def not_bad(s):
     'This dinner is good!'
     >>> not_bad('This tea is not hot')
     'This tea is not hot'
-    >>> not_bad('It's bad yet not')
-    'It's bad yet not'
+    >>> not_bad("It's bad yet not")
+    "It's bad yet not"
     """
     raise NotImplementedError
 
