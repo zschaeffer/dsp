@@ -1,5 +1,5 @@
-_Source:  University of Pennsylvania - Biostatistics Faculty List_  
-_A file is provided for use: faculty.csv_
+# Source:  University of Pennsylvania - Biostatistics Faculty List
+# A file is provided for use: faculty.csv
 
 # Part 1 - regular expressions
 
@@ -9,13 +9,16 @@ _A file is provided for use: faculty.csv_
 # c) search for email addresses and put them in a list.    
 # d) How many different email domains are there (Ex:  mail.med.upenn.edu, upenn.edu, email.chop.edu, etc.)
 
+REPLACE THIS WITH YOUR RESPONSE
+
 # Part 2 - write to csv file
 # a)  write email addresses from Part 1 to csv file
 
-bellamys@mail.med.upenn.edu
-warren@upenn.edu
-bryanma@upenn.edu
-…
+# bellamys@mail.med.upenn.edu
+# warren@upenn.edu
+# bryanma@upenn.edu
+
+REPLACE THIS WITH YOUR RESPONSE
 
 # Part 3 - dictionary
 
@@ -32,6 +35,8 @@ faculty_dict = { 'Ellenberg': [\
                             ]
             }
 
+REPLACE THIS WITH YOUR RESPONSE
+
 # Part 4
 
 # The previous dictionary does not have the best design for keys.  
@@ -44,6 +49,10 @@ professor_dict = {('Susan', 'Ellenberg'): ['Ph.D.', 'Professor', 'sellenbe@upenn
                 ('Hongzhe','Li'): ['Ph.D.', 'Professor', 'hongzhe@upenn.edu']
             }
 
+REPLACE THIS WITH YOUR RESPONSE
+
 # Part 5
 # looks like current dictionary is sorted by first name.  Sort by last name and print.
+
+REPLACE THIS WITH YOUR RESPONSE
 
