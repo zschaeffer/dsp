@@ -6,13 +6,9 @@ Read Allen Downey's [Think Python](http://www.greenteapress.com/thinkpython/) fo
 
 For quick and easy interactive practice with Python, many people enjoy [Codecademy's Python track](http://www.codecademy.com/en/tracks/python). There's also [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) and [The Python Tutorial](https://docs.python.org/2/tutorial/).
 
-Complete the following exercises to check your ability with Python.
+There are two sets of challenges. Please make sure to complete **all 9 problems**. There is an additional bonus problem that you can complete as well.  
 
-These exercises are implemented with doctests, which are runnable tests inside docstrings. Fill in the function definitions. Correct solutions will make it possible to run (for example) `python -m doctest strings.py` with no messages about failures.
-
- * [Strings](python/strings.py)
- * [Lists](python/lists.py)
-
+#### PART I
 
 ---
 
@@ -22,15 +18,9 @@ REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
-
----
-
 How are Python lists and sets similar and different? Give examples of using both. How does performance compare between lists and sets for finding an element. Why?
 
 REPLACE THIS TEXT WITH YOUR RESPONSE
-
----
-
 
 ---
 
@@ -40,24 +30,48 @@ REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
-
----
-
 Explain list comprehensions. Give examples and show equivalents with `map` and `filter`. How do their capabilities compare? Also demonstrate set comprehensions and dictionary comprehensions.
 
 REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
+Use python to compute days between start and stop date.  
+_Hint:  use Google to find python function_ 
 
-Write a Markov text generator, [markov.py](python/markov.py). Your program should be called from the command line with two arguments: the name of a file containing text to read, and the number of words to generate. For example, if `chains.txt` contains the short story by Frigyes Karinthy, we could run:
+    date_start = '01-02-2013'  
+    date_stop = '07-28-2015'   
 
-```bash
-./markov.py chains.txt 40
-```
+    date_start = '12312013'  
+    date_stop = '05282015'  
 
-A possible output would be:
+    date_start = '15-Jan-1994'  
+    date_stop = '14-Jul-2015'  
 
-> show himself once more than the universe and what I often catch myself playing our well-connected game went on. Our friend was absolutely correct: nobody from the group needed this way. We never been as the Earth has the network of eternity.
 
-There are design choices to make; feel free to experiment and shape the program as you see fit. Jeff Atwood's [Markov and You](http://blog.codinghorror.com/markov-and-you/) is a fun place to get started learning about what you're trying to make.
+REPLACE THIS TEXT WITH YOUR RESPONSE
+
+---  
+
+
+#### PART II
+
+The first part of this section contains practice exercises that will use skills in regular expressions, writing to csv file, and dictionary.  
+
+  * [Parsing](python/parsing.py)  
+  * [CSV, Regex, Dictionary](python/faculty.py)
+
+These next exercises are implemented with doctests, which are runnable tests inside docstrings. Fill in the function definitions. Correct solutions will make it possible to run (for example) `python -m doctest strings.py` with no messages about failures.
+
+ * [Strings](python/strings.py)
+ * [Lists](python/lists.py)
+ 
+If you're all done and looking for an extra challenge, then please solve the following problem:
+
+ * [Markov](python/markov.py)
+
+## Need more resources?  
+[Google&#39;s Python Class](https://developers.google.com/edu/python/)   
+[Greg Reda&#39;s Pandas Tutorial](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)
+
+
