@@ -4,6 +4,6 @@ Problem: [Think Stats Chapter 8 Exercise 3](http://greenteapress.com/thinkstats2
 
 ---
 
-REPLACE THIS TEXT WITH YOUR RESPONSE
+> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---

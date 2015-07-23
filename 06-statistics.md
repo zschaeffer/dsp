@@ -29,7 +29,7 @@ The following exercises are optional, but we highly encourage you to complete th
 
 Elvis Presley had a twin brother who died at birth.  What is the probability that Elvis was an identical twin?
 
-REPLACE THIS TEXT WITH YOUR RESPONSE
+> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
@@ -38,6 +38,6 @@ REPLACE THIS TEXT WITH YOUR RESPONSE
 
 How do frequentist and Bayesian statistics compare?
 
-REPLACE THIS TEXT WITH YOUR RESPONSE
+> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
