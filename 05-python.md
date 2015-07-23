@@ -6,7 +6,7 @@ Read Allen Downey's [Think Python](http://www.greenteapress.com/thinkpython/) fo
 
 For quick and easy interactive practice with Python, many people enjoy [Codecademy's Python track](http://www.codecademy.com/en/tracks/python). There's also [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) and [The Python Tutorial](https://docs.python.org/2/tutorial/).
 
-There are two sets of challenges. Please make sure to complete **all 9 problems**. There is an additional bonus problem that you can complete as well.  
+There are two sets of challenges. There are **9 compulsory problems**. There is an additional bonus problem that you can complete if you wish. Part I has 5 questions (below) and Part II consists of a series of 4 challenges. 
 
 #### PART I
 
