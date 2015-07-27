@@ -8,67 +8,50 @@ For quick and easy interactive practice with Python, many people enjoy [Codecade
 
 There are two sets of challenges. There are **9 compulsory problems**. There is an additional bonus problem that you can complete if you wish. Part I has 5 questions (below) and Part II consists of a series of 4 challenges. 
 
-#### PART I
+## PART I  
 
----
-
-How are Python lists and tuples similar and different? Which will work as keys in dictionaries? Why?
+###Q1. How are Python lists and tuples similar and different? Which will work as keys in dictionaries? Why?
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
-How are Python lists and sets similar and different? Give examples of using both. How does performance compare between lists and sets for finding an element. Why?
+###Q2. How are Python lists and sets similar and different? Give examples of using both. How does performance compare between lists and sets for finding an element. Why?
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
-Describe Python's `lambda`. What is it, and what is it used for? Give at least one example, including an example of using a `lambda` in the `key` argument to `sorted`.
+###Q3. Describe Python's `lambda`. What is it, and what is it used for? Give at least one example, including an example of using a `lambda` in the `key` argument to `sorted`.
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
-Explain list comprehensions. Give examples and show equivalents with `map` and `filter`. How do their capabilities compare? Also demonstrate set comprehensions and dictionary comprehensions.
+###Q4. Explain list comprehensions. Give examples and show equivalents with `map` and `filter`. How do their capabilities compare? Also demonstrate set comprehensions and dictionary comprehensions.
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
+###Q5. Use python to compute days between start and stop date.  
+  * [Place code here](pyton/q5_datetime.py)  
 
-Use python to compute days between start and stop date.  
-_Hint:  use Google to find python function_ 
-
-    date_start = '01-02-2013'  
-    date_stop = '07-28-2015'   
-
-    date_start = '12312013'  
-    date_stop = '05282015'  
-
-    date_start = '15-Jan-1994'  
-    date_stop = '14-Jul-2015'  
-
-
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
----  
+---    
 
 
 #### PART II
 
-The first part of this section contains practice exercises that will use skills in regular expressions, writing to csv file, and dictionary.  
+Complete the following problems by editing the files below:
 
-  * [Parsing](python/parsing.py)  
-  * [CSV, Regex, Dictionary](python/faculty.py)
+###Q6. [Strings](python/q6_strings.py)
+###Q7. [Lists](python/q7_lists.py)
+###Q8. [Parsing](python/q8_parsing.py)  
+###Q9. [CSV, Regex, Dictionary](q9_python/q9_faculty.py)
 
-These next exercises are implemented with doctests, which are runnable tests inside docstrings. Fill in the function definitions. Correct solutions will make it possible to run (for example) `python -m doctest strings.py` with no messages about failures.
-
- * [Strings](python/strings.py)
- * [Lists](python/lists.py)
  
 If you're all done and looking for an extra challenge, then please solve the following problem:
 
- * [Markov](python/markov.py)
+###Q10. [Markov](python/q10_markov.py) (Optional)
 
 ## Need more resources?  
 [Google&#39;s Python Class](https://developers.google.com/edu/python/)   
