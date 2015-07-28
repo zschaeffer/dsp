@@ -1,11 +1,12 @@
 # Advanced Python    
 
-[Regular Expressions, Dictionary, Writing to CSV File](q9_python/q9_advanced.py)
+Regular Expressions, Dictionary, Writing to CSV File  
+
 This question has multiple parts, and will take **20-40 hours** to complete, depending on your python proficiency level.  Knowing these skills will be extremely beneficial during the first few weeks of the bootcamp.
 
 The data file represents the [Biostats Faculty List at University of Pennsylvania](http://www.med.upenn.edu/cceb/biostat/faculty.shtml)
 
-This data is available in this file:  [faculty.csv]((advanced_python/faculty.csv))
+This data is available in this file:  [faculty.csv]((python/faculty.csv))
  
 
 ###Part I - Regular Expressions  
