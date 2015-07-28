@@ -86,6 +86,7 @@ Edit the 5 functions in [q7_lists.py](python/q7_lists.py)
 ###Q8. Parsing
 
 
+<br />
 ## Advanced Python    
 
 ###Q9. [Regular Expressions, Dictionary, Writing to CSV File](q9_python/q9_advanced.py)
