@@ -54,18 +54,19 @@ date_stop = '07-28-2015'
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 b.  
-<code>
+```
 date_start = '12312013'  
+
 date_stop = '05282015'  
-</code>
+```
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 c.  
-<code>
-date_start = '15-Jan-1994'  
+```
+date_start = '15-Jan-1994'      
 date_stop = '14-Jul-2015'  
-</code>
+```
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE  
 
