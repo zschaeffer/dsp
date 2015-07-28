@@ -74,21 +74,25 @@ Place code in this file: [q5_datetime.py](python/q5_datetime.py)
 ---
 
 ###Q6. [Strings](python/q6_strings.py)
-Edit the 7 functions in the [q6_strings.py](python/q6_strings.py)
+Edit the 7 functions in [q6_strings.py](python/q6_strings.py)
 
 ---
 
 ###Q7. [Lists](python/q7_lists.py)  
-Edit the 5 functions in the [q7_lists.py](python/q7_lists.py)
+Edit the 5 functions in [q7_lists.py](python/q7_lists.py)
 
 ---
 
 ###Q8. [Parsing](python/q8_parsing.py)  
+
+
+---
+
 ###Q9. [Regular Expressions, Dictionary, Writing to CSV File](q9_python/q9_advanced.py)
 
 --- 
 
-If you're all done and looking for an extra challenge, then please solve the following problem:
+If you're all done and looking for an extra challenge, then try the below problem:  
 
 ###Q10. [Markov](python/q10_markov.py) (Optional)
 
