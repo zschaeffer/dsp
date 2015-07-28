@@ -45,10 +45,10 @@ Explain list comprehensions. Give examples and show equivalents with `map` and `
 ###Q5. [Datetime](python/q5_datetime.py)
 Use Python to compute days between start and stop date.   
 a.  
-<code>
-date_start = '01-02-2013'  
-date_stop = '07-28-2015'   
-</code>
+
+```date_start = '01-02-2013'    
+date_stop = '07-28-2015'
+```
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
