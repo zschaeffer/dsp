@@ -21,7 +21,8 @@ Communicate the problem, how you solved it, and the solution, within each of the
 ###Q5. [Think Stats Chapter 7 Exercise 1](statistics/7-1-weight_vs_age.md) (weight vs. age)
 ###Q6. [Think Stats Chapter 8 Exercise 2](statistics/8-2-sampling_dist.md) (sampling distribution)
 
-###Q7. Elvis Presley had a twin brother who died at birth.  What is the probability that Elvis was an identical twin?
+###Q7. Bayesian (Elvis Presley twin)  
+Elvis Presley had a twin brother who died at birth.  What is the probability that Elvis was an identical twin? Assume we observe the following probabilities in the population: fraternal twin is 1/125 and identical twin is 1/300.  
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
