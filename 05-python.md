@@ -84,8 +84,6 @@ Edit the 5 functions in [q7_lists.py](python/q7_lists.py)
 ---
 
 ###Q8. Parsing
-
-
 <br />
 ## Advanced Python    
 
