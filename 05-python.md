@@ -71,8 +71,18 @@ date_stop = '14-Jul-2015'
 
 Place code in this file: [q5_datetime.py](python/q5_datetime.py)
 
+---
+
 ###Q6. [Strings](python/q6_strings.py)
-###Q7. [Lists](python/q7_lists.py)
+Edit the 7 functions in the [q6_strings.py](python/q6_strings.py)
+
+---
+
+###Q7. [Lists](python/q7_lists.py)  
+Edit the 5 functions in the [q7_lists.py](python/q7_lists.py)
+
+---
+
 ###Q8. [Parsing](python/q8_parsing.py)  
 ###Q9. [Regular Expressions, Dictionary, Writing to CSV File](q9_python/q9_advanced.py)
 
