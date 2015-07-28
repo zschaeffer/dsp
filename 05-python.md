@@ -46,7 +46,8 @@ Explain list comprehensions. Give examples and show equivalents with `map` and `
 Use Python to compute days between start and stop date.   
 a.  
 
-```date_start = '01-02-2013'    
+```
+date_start = '01-02-2013'    
 date_stop = '07-28-2015'
 ```
 
