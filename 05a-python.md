@@ -87,14 +87,11 @@ Edit the 5 functions in [q7_lists.py](python/q7_lists.py)
 <br />
 ## Advanced Python    
 
-###Q9. [Regular Expressions, Dictionary, Writing to CSV File](q9_python/q9_advanced.py)
-This question has multiple parts, and will take **20-40 hours** to complete, depending on your python proficiency level.  Knowing these skills will be extremely beneficial during the first few weeks of the bootcamp. 
-
 --- 
 
 If you're all done and looking for an extra challenge, then try the below problem:  
 
-###Q10. [Markov](python/q10_markov.py) (Optional)
+### [Markov](python/markov.py) (Optional)
 
 
 
