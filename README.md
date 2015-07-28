@@ -3,7 +3,7 @@
 # Before Metis
 
 These materials are designed to ensure you are ready to succeed in the
-Metis data science bootcamp. Students should budget 60-120 hours to complete the pre-work.
+Metis data science bootcamp. Students should budget **60-120 hours** to complete the pre-work.
 
 **All exercises _must_ be completed before the first day of class.**
 
