@@ -15,7 +15,4 @@ Metis data science bootcamp. Students should budget **60-120 hours** to complete
  6. [Learn Statistics](06-statistics.md)
  7. [More Resources](07-more-resources.md)
 
-To go beyond the exercises here, one interesting type of project is to
-simulate a system of interest programmatically and analyze the
-simulation statistically. You could do such a project and keep it in
-its own repo.
+<h1 style='text-align: center;'>Remember to save your work!</h1>
