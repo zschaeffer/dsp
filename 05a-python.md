@@ -42,7 +42,7 @@ Explain list comprehensions. Give examples and show equivalents with `map` and `
 
 ###Complete the following problems by editing the files below:
 
-###Q5. [Datetime](python/q5_datetime.py)
+###Q5. Datetime
 Use Python to compute days between start and stop date.   
 a.  
 
@@ -84,14 +84,9 @@ Edit the 5 functions in [q7_lists.py](python/q7_lists.py)
 ---
 
 ###Q8. Parsing
-<br />
-## Advanced Python    
+Edit the X function in [q8_parsing.py](python/q8_parsing.py)
 
---- 
 
-If you're all done and looking for an extra challenge, then try the below problem:  
-
-### [Markov](python/markov.py) (Optional)
 
 
 
