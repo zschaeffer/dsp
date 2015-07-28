@@ -13,6 +13,7 @@ Metis data science bootcamp. Students should budget 60-120 hours to complete the
  4. [Learn command line](04-command_line.md)
  5. [Learn Python](05-python.md)
  6. [Learn Statistics](06-statistics.md)
+ 7. [More Resources](07-more-resources.md)
 
 To go beyond the exercises here, one interesting type of project is to
 simulate a system of interest programmatically and analyze the

@@ -2,59 +2,84 @@
 
 Read Allen Downey's [Think Python](http://www.greenteapress.com/thinkpython/) for getting up to speed with Python 2.7 and computer science topics. It's completely available online, or you can buy a physical copy if you would like.
 
-[![Think Python](img/think_python.png)](http://www.greenteapress.com/thinkpython/)
+<a href="http://www.greenteapress.com/thinkpython/"><img src="img/think_python.png" style="width: 100px;" target="_blank"></a>
 
 For quick and easy interactive practice with Python, many people enjoy [Codecademy's Python track](http://www.codecademy.com/en/tracks/python). There's also [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) and [The Python Tutorial](https://docs.python.org/2/tutorial/).
 
-There are two sets of challenges. There are **9 compulsory problems**. There is an additional bonus problem that you can complete if you wish. Part I has 5 questions (below) and Part II consists of a series of 4 challenges. 
+---
 
-## PART I  
+###Q1. Lists &amp; Tuples
 
-###Q1. How are Python lists and tuples similar and different? Which will work as keys in dictionaries? Why?
+How are Python lists and tuples similar and different? Which will work as keys in dictionaries? Why?
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
-###Q2. How are Python lists and sets similar and different? Give examples of using both. How does performance compare between lists and sets for finding an element. Why?
+###Q2. Lists &amp; Sets
+
+How are Python lists and sets similar and different? Give examples of using both. How does performance compare between lists and sets for finding an element. Why?
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
-###Q3. Describe Python's `lambda`. What is it, and what is it used for? Give at least one example, including an example of using a `lambda` in the `key` argument to `sorted`.
+###Q3. Lambda Function
+
+Describe Python's `lambda`. What is it, and what is it used for? Give at least one example, including an example of using a `lambda` in the `key` argument to `sorted`.
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
-###Q4. Explain list comprehensions. Give examples and show equivalents with `map` and `filter`. How do their capabilities compare? Also demonstrate set comprehensions and dictionary comprehensions.
+###Q4. List Comprehension, Map &amp; Filter
+
+Explain list comprehensions. Give examples and show equivalents with `map` and `filter`. How do their capabilities compare? Also demonstrate set comprehensions and dictionary comprehensions.
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
-###Q5. Use python to compute days between start and stop date.  
-  * [Place code here](pyton/q5_datetime.py)  
 
----    
+###Complete the following problems by editing the files below:
 
+###Q5. [Datetime](python/q5_datetime.py)
+Use Python to compute days between start and stop date.   
+a.  
+<code>
+date_start = '01-02-2013'  
+date_stop = '07-28-2015'   
+</code>
 
-#### PART II
+>> REPLACE THIS TEXT WITH YOUR RESPONSE
 
-Complete the following problems by editing the files below:
+b.  
+<code>
+date_start = '12312013'  
+date_stop = '05282015'  
+</code>
+
+>> REPLACE THIS TEXT WITH YOUR RESPONSE
+
+c.  
+<code>
+date_start = '15-Jan-1994'  
+date_stop = '14-Jul-2015'  
+</code>
+
+>> REPLACE THIS TEXT WITH YOUR RESPONSE  
+
+Place code in this file: [q5_datetime.py](python/q5_datetime.py)
 
 ###Q6. [Strings](python/q6_strings.py)
 ###Q7. [Lists](python/q7_lists.py)
 ###Q8. [Parsing](python/q8_parsing.py)  
-###Q9. [CSV, Regex, Dictionary](q9_python/q9_faculty.py)
+###Q9. [Regular Expressions, Dictionary, Writing to CSV File](q9_python/q9_advanced.py)
 
- 
+--- 
+
 If you're all done and looking for an extra challenge, then please solve the following problem:
 
 ###Q10. [Markov](python/q10_markov.py) (Optional)
 
-## Need more resources?  
-[Google&#39;s Python Class](https://developers.google.com/edu/python/)   
-[Greg Reda&#39;s Pandas Tutorial](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)
 
 
