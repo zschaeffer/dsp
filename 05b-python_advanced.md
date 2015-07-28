@@ -1,45 +1,44 @@
-<br />
 # Advanced Python    
 
-##Q9. [Regular Expressions, Dictionary, Writing to CSV File](q9_python/q9_advanced.py)
+[Regular Expressions, Dictionary, Writing to CSV File](q9_python/q9_advanced.py)
 This question has multiple parts, and will take **20-40 hours** to complete, depending on your python proficiency level.  Knowing these skills will be extremely beneficial during the first few weeks of the bootcamp.
 
 The data file represents the [Biostats Faculty List at University of Pennsylvania](http://www.med.upenn.edu/cceb/biostat/faculty.shtml)
 
-This data is available in this file:  [faculty.csv]((q9_python/faculty.csv))
+This data is available in this file:  [faculty.csv]((advanced_python/faculty.csv))
  
 
-###Part I - Regular Expressions
+###Part I - Regular Expressions  
 
 Use regular expressions to:
 
-a) Find how many different degrees there are, and their frequencies: Ex:  PhD, ScD, MD, MPH, BSEd, MS, JD, etc.
+####Q1. Find how many different degrees there are, and their frequencies: Ex:  PhD, ScD, MD, MPH, BSEd, MS, JD, etc.
 
 >> REPLACE THIS WITH YOUR RESPONSE
 
 
-b) Find how many different titles there are, and their frequencies:  Ex:  Assistant Professor, Professor
+####Q2. Find how many different titles there are, and their frequencies:  Ex:  Assistant Professor, Professor
 
 >> REPLACE THIS WITH YOUR RESPONSE
 
 
-c) Search for email addresses and put them in a list.  Print the list of email addresses.
+####Q3. Search for email addresses and put them in a list.  Print the list of email addresses.
 
 >> REPLACE THIS WTIH YOUR RESPONSE
 
 
-d) Find how many different email domains there are (Ex:  mail.med.upenn.edu, upenn.edu, email.chop.edu, etc.).  Print the list of unique email domains.
+####Q4. Find how many different email domains there are (Ex:  mail.med.upenn.edu, upenn.edu, email.chop.edu, etc.).  Print the list of unique email domains.
 
 >> REPLACE THIS WTIH YOUR RESPONSE
 
-Place your code in this file: q9_part1_regex.py
+Place your code in this file: [advanced_python_regex.py](python/advanced_python_regex.py)
 
 
 ###Part II - Write to CSV File
 
-a)  Write email addresses from Part I to csv file
+####Q5.  Write email addresses from Part I to csv file
 
-Place your code in this file: q9_part2_csv.py
+Place your code in this file: [advanced_python_csv.py](python/advanced_python_csv.py)
 
 Your file, emails.csv, will look like this:
 ```
@@ -51,7 +50,7 @@ bryanma@upenn.edu
 
 ### Part III - Dictionary
 
-a)  Create a dictionary in the below format:
+####Q6.  Create a dictionary in the below format:
 ```
 faculty_dict = { 'Ellenberg': [\
               ['Ph.D.', 'Professor', 'sellenbe@upenn.edu'],\
@@ -68,7 +67,7 @@ Print the first 3 key and value pairs of the dictionary:
 
 >> REPLACE THIS WITH YOUR RESPONSE
 
-b)  The previous dictionary does not have the best design for keys.  Create a new dictionary with keys as:
+####Q7.  The previous dictionary does not have the best design for keys.  Create a new dictionary with keys as:
 
 ```
 professor_dict = {('Susan', 'Ellenberg'): ['Ph.D.', 'Professor', 'sellenbe@upenn.edu'],\
@@ -83,8 +82,8 @@ Print the first 3 key and value pairs of the dictionary:
 
 >> REPLACE THIS WITH YOUR RESPONSE
 
-c)  It looks like the current dictionary is sorted by first name.  Sort by last name and print the first 3 key and value pairs.  
+####Q8.  It looks like the current dictionary is sorted by first name.  Sort by last name and print the first 3 key and value pairs.  
 
 >> REPLACE THIS WITH YOUR RESPONSE
 
-Place your code in this file: q9_part3_dict.py
+Place your code in this file: [advanced_python_dict.py](python/advanced_python_dict.py)
