@@ -7,7 +7,8 @@ This question has multiple parts, and will take **20-40 hours** to complete, dep
 The data file represents the [Biostats Faculty List at University of Pennsylvania](http://www.med.upenn.edu/cceb/biostat/faculty.shtml)
 
 This data is available in this file:  [faculty.csv](python/faculty.csv)
- 
+
+--- 
 
 ###Part I - Regular Expressions  
 
@@ -34,6 +35,7 @@ Use regular expressions to:
 
 Place your code in this file: [advanced_python_regex.py](python/advanced_python_regex.py)
 
+---
 
 ###Part II - Write to CSV File
 
@@ -48,6 +50,7 @@ warren@upenn.edu
 bryanma@upenn.edu
 ```
 
+---
 
 ### Part III - Dictionary
 
