@@ -92,6 +92,8 @@ Print the first 3 key and value pairs of the dictionary:
 
 Place your code in this file: [advanced_python_dict.py](python/advanced_python_dict.py)
 
+--- 
+
 If you're all done and looking for an extra challenge, then try the below problem:  
 
 ### [Markov](python/markov.py) (Optional)
