@@ -33,7 +33,9 @@ How do frequentist and Bayesian statistics compare?
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
----
+<br />
+
+#### Optional
 
 The following exercises are optional, but we highly encourage you to complete them if you have the time.
 
