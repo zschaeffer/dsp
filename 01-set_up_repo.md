@@ -19,9 +19,52 @@ Click the **Fork** button at the upper right hand corner of the page:
 
 ![fork](img/forking_repo.png)
 
-This makes a personal copy of the repository that you can edit. Your forked copies will show up in your *Repositories* section.
+This makes a personal copy of the repository. Your forked copies will show up in your *Repositories* section.
 
 This repository is `thisismetis/dsp`. Your forked copy will be `your_github_user_name/dsp`.
+
+## Step 4: Clone the repository locally
+
+This makes a copy of the repository in your laptop. Click on the clipboard image on the right sidebar to copy the HTTPS clone URL. 
+
+Include instructions for caching or too much??
+
+![edit](img/clone_repo.png)
+
+Go to your terminal and navigate to whichever folder you will be using to save the pre-work. Type `git clone` and then paste the clone URL.  
+
+`git clone https://github.com/your_username/dsp.git`  
+
+Navigate to the repository. Your terminal window should now show show something like this:
+
+` dsp git:(master) `
+
+## Step 5: Start committing
+
+Now you can complete the challenges in your text editor and then `push` them up to GitHub when you're done. We will **not** be doing any branching, merging, rebasing or any of that fun stuff (yet).  
+
+There's some important terminology to consider for this part before we move on.  
+
+There's three main states that your files can reside in: 
+
+_Modified_ means that there's been changes to the file but it's not committed yet. 
+
+_Committed_ means that the data is stored locally.
+
+_Staged_ means that you have marked a file to go into your next commit snapshot.
+
+The **staging** area 
+
+There's three basic commands you need to learn for this part:
+
+`git add filename`  
+This command will add any changes you just made to the "staging" area. This is ba
+
+`git commit -m "I just did some cool stuff`  
+`git push`  
+
+
+<!-- 
 
 
 ## Step 4: Edit your fork
@@ -40,13 +83,13 @@ You can repeat the edit and commit process as many times as you like. You don't 
 
 Here's your first chance to practice this:
 
----
+
 
 What is your favorite [emoji](http://www.emoji-cheat-sheet.com/)?
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
----
+
 
 
 ### Deepen your knowledge
