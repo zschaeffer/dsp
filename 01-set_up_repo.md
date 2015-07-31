@@ -1,6 +1,14 @@
 # Set up your repository on GitHub
 
-It is highly recommended that you take 15 minutes to [Try Git](https://try.github.io/levels/1/challenges/1). It does a great job at explaining basic git concepts, which we will be using for this part of the pre-work. 
+Before you start, please take 15 minutes to [Try Git](https://try.github.io/levels/1/challenges/1). It does a great job at explaining the basic concepts, which we will be using for this part of the pre-work. 
+
+#### Git and GitHub  
+
+Let's clear up something first.  
+
+**Git** is a system for version control. It runs at the command line on your local machine and allows you to keep track of your files and modifications in a "repository". 
+
+**GitHub** is a website that allows you to upload your git respositories online. It allows you to have a backup of your files, has a visual interface to navigate your repos, and it allows other people (us!) to be able to view your repos. 
 
 ## Step 1: Sign up for GitHub
 
@@ -33,9 +41,9 @@ This makes a copy of the repository in your laptop. Click on the clipboard image
 
 Go to your terminal and navigate to whichever folder you will be using to save the pre-work. Type `git clone` and then paste the clone URL.  
 
-`git clone https://github.com/your_username/dsp.git`  
+`$ git clone https://github.com/your_username/dsp.git`  
 
-Navigate to the repository. Your terminal window should now show show something like this:
+Navigate to the repository in your terminal. Your terminal window should now show show something like this:
 
 IMAGE
 
