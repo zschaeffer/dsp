@@ -99,7 +99,9 @@ Your work should now show up in your remote repository.
 IMAGE
 
 
-And you're done! (for now)
+And you're done! (for now)  
+
+You can also use this workflow to add images to your repository. All you need to do is add them to the _img_ folder, and they will be added to the staging area.   
 
 GitHub has some great documentation, along with this really awesome [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf). 
 
