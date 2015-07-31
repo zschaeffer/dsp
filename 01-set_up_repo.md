@@ -45,7 +45,7 @@ Go to your terminal and navigate to whichever folder you will be using to save t
 
 Navigate to the repository in your terminal. Your terminal window should now show show something like this:
 
-IMAGE
+![git](img/git.png)
 
 ## Step 5: `add`ing, `commit`ting and `push`ing
 
@@ -85,24 +85,32 @@ In your local repository, edit the files for the problem statement with your sol
 
 Go to your terminal. If you type `$ git status`, you should get a message like this:  
 
-IMAGE
+![gst](img/git_status.png)
 
 This means that you have **modified** the files that appear ther. This is what is called the **staging** area. Any files you modify will appear here. 
 
 
+b. `git add`
+
 If you are ready with the changes, then it's time to `git add` the files. 
 
-IMAGE
+![add](img/git_add.png)
 
-You can add all the files by typing `git add .`, or you can add one by one like above by specifying the path after `git add`.  
+You can add all the files by typing `$ git add .`, or you can add one by one like above by specifying the path after `$ git add`.  
+
+c. `git commit`
 
 Once you're ready to save the files, then it's time to `git commit` them.  
 
+![commit](img/git_commit.png)
+
 The message should be descriptive enough, but also short and sweet. It is strongly recommended that you commit often, as this will save your work and will help you keep track of changes easier.   
+
+d. `git push` 
 
 Once you're done with the challenge, it's time to show your work in your remote GitHub repository. Let's `git push`.
 
-IMAGE
+![push](img/git_push.png)
 
 Your work should now show up in your remote repository.
 
