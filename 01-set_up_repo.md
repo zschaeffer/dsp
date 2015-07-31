@@ -1,5 +1,6 @@
 # Set up your repository on GitHub
 
+It is highly recommended that you take 15 minutes to [Try Git](https://try.github.io/levels/1/challenges/1). It does a great job at explaining basic git concepts, which we will be using for this part of the pre-work. 
 
 ## Step 1: Sign up for GitHub
 
@@ -27,7 +28,6 @@ This repository is `thisismetis/dsp`. Your forked copy will be `your_github_user
 
 This makes a copy of the repository in your laptop. Click on the clipboard image on the right sidebar to copy the HTTPS clone URL. 
 
-Include instructions for caching or too much??
 
 ![edit](img/clone_repo.png)
 
@@ -37,60 +37,73 @@ Go to your terminal and navigate to whichever folder you will be using to save t
 
 Navigate to the repository. Your terminal window should now show show something like this:
 
-` dsp git:(master) `
+IMAGE
 
-## Step 5: Start committing
+## Step 5: `add`ing, `commit`ting and `push`ing
 
-Now you can complete the challenges in your text editor and then `push` them up to GitHub when you're done. We will **not** be doing any branching, merging, rebasing or any of that fun stuff (yet).  
+In this step, you will be using both the terminal and your favorite text editor.  
+
+In this step, you will learn how to complete the challenges in your text editor and then `push` them up to GitHub when you're done. We will **not** be doing any branching, merging, rebasing or any of that fun stuff (yet). GitHub is also a great way to save your work, even if you aren't done with a  challenge at a particular time.  
 
 There's some important terminology to consider for this part before we move on.  
 
 There's three main states that your files can reside in: 
 
-_Modified_ means that there's been changes to the file but it's not committed yet. 
+**Modified** means that there's been changes to the file but it's not committed yet. 
 
-_Committed_ means that the data is stored locally.
+**Committed** means that the changes you made have been stored locally.
 
-_Staged_ means that you have marked a file to go into your next commit snapshot.
+**Staged** means that you have marked a file to go into your next commit snapshot.
 
-The **staging** area 
+The basic workflow goes something like this:
 
-There's three basic commands you need to learn for this part:
+1. Modify the files.
+2. Stage the files. 
+3. Do a commit. 
+4. Push up to GitHub.  
 
-`git add filename`  
-This command will add any changes you just made to the "staging" area. This is ba
+There's four basic commands you should get familiar with:
 
-`git commit -m "I just did some cool stuff`  
+`git add <filename>`  
+`git commit -m "message"`  
 `git push`  
+`git status`  
+
+Let's put this all together now!
+
+In your local repository, edit the files for the problem statement with your solution.  
+
+Go to your terminal. If you type `git status`, you should get a message like this:  
+
+IMAGE
+
+This means that you have **modified** the files that appear ther. This is what is called the **staging** area. Any files you modify will appear here. 
 
 
-<!-- 
+If you are ready with the changes, then it's time to `git add` the files. 
+
+IMAGE
+
+You can add all the files by typing `git add .`, or you can add one by one like above by specifying the path after `git add`.  
+
+Once you're ready to save the files, then it's time to `git commit` them.  
+
+The message should be descriptive enough, but also short and sweet. It is strongly recommended that you commit often, as this will save your work and will help you keep track of changes easier.   
+
+Once you're done with the challenge, it's time to show your work in your remote GitHub repository. Let's `git push`.
+
+IMAGE
+
+Your work should now show up in your remote repository.
+
+IMAGE
 
 
-## Step 4: Edit your fork
+And you're done! (for now)
 
-There are files in your forked repository that you need to edit to add your work.
+GitHub has some great documentation, along with this really awesome [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf). 
 
-When viewing an individual file in your forked repository on GitHub, you will an see "Edit this file" button that you can click to get an in-browser editor.
-
-![edit](img/edit_file.png)
-
-After you've edited the file, you need to _commit_ your changes to make them permanent. At the bottom of the page you can add a _commit message_ describing your changes and then click the green "Commit changes" button.
-
-![commit](img/commit_file.png)
-
-You can repeat the edit and commit process as many times as you like. You don't have to be totally done with a file to commit. Commit incrementally!
-
-Here's your first chance to practice this:
-
-
-
-What is your favorite [emoji](http://www.emoji-cheat-sheet.com/)?
-
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
-
-
+---
 
 ### Deepen your knowledge
 
@@ -99,5 +112,3 @@ The process above is designed to be accessible to anyone regardless of backgroun
 To get a complete understanding of `git`, you should read [Pro Git](http://git-scm.com/book/en/v2). It's available free online or as a printed book.
 
 [<img src="img/pro_git.png" title="Pro Git" width="250" />](http://git-scm.com/book/en/v2)
-
-It isn't required, but you can also submit work to your forked repository by `clone`ing your fork, editing files on your machine, `add`ing them to the staging area, `commit`ting them, and `push`ing your changes back up to GitHub.
