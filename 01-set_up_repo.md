@@ -36,14 +36,25 @@ This repository is `thisismetis/dsp`. Your forked copy will be `your_github_user
 
 This makes a copy of the repository in your laptop. Click on the clipboard image on the right sidebar to copy the HTTPS clone URL. 
 
-
 ![edit](img/git_clone.png)
 
-Go to your terminal and navigate to whichever folder you will be using to save the pre-work. Type `git clone` and then paste the clone URL.  
+Create the following folders:  
+
+(OSX): `/Users/yourname/ds/metis`
+
+Example: /Users/laumontemayor/ds/metis  
+
+(Windows): `C:/ds/metis`
+
+Navigate in your terminal to the folder you just created. Type `git clone` and then paste the clone URL.  
 
 `$ git clone https://github.com/your_username/dsp.git`  
 
-Navigate to the repository in your terminal. Your terminal window should now show show something like this:
+Cloning the directory will create the following:
+
+`/Users/yourname/ds/metis/dsp`
+
+And now `cd` into the `/dsp` folder. Your terminal window should now show show something like this:
 
 ![git](img/git.png)
 
@@ -53,15 +64,16 @@ In this step, you will be using both the terminal and your favorite text editor.
 
 You will learn how to complete the challenges in your text editor and then `push` them up to GitHub when you're done. We will **not** be doing any branching, merging, rebasing or any of that fun stuff (yet). GitHub is also a great way to save your work, even if you aren't done with a  challenge at a particular time.  
 
-There's some important terminology to consider for this part before we move on.  
+There is some important terminology to consider for this part before we move on.  
 
-There's three main states that your files can reside in: 
+There are three main states that your files can reside in: 
 
-**Modified** means that there's been changes to the file but it's not committed yet. 
+- **Modified** means that there's been changes to the file but it's not committed yet. 
 
-**Committed** means that the changes you made have been stored locally.
+- **Staged** means that you have marked a file to go into your next commit snapshot.
 
-**Staged** means that you have marked a file to go into your next commit snapshot.
+- **Committed** means that the changes you made have been stored locally.
+
 
 The basic workflow goes something like this:
 
@@ -72,14 +84,15 @@ The basic workflow goes something like this:
 
 There's four basic commands you should get familiar with:
 
-`git add <filename>`  
-`git commit -m "message"`  
-`git push`  
-`git status`  
+`$ git add <filename>`  
+`$ git commit -m "message"`  
+`$ git push`  
+`$ git status`  
 
 Let's put this all together now!
 
-a. `git status`  
+
+**5a. `git status`**
 
 In your local repository, edit the files for the problem statement with your solution.  
 
@@ -90,7 +103,7 @@ Go to your terminal. If you type `$ git status`, you should get a message like t
 This means that you have **modified** the files that appear there. This is what is called the **staging** area. Any files you modify will appear here. 
 
 
-b. `git add`
+**5b. `git add`**
 
 If you are ready with the changes, then it's time to `git add` the files. 
 
@@ -104,7 +117,7 @@ If you type `$ git status` again, you should get something like this:
 
 As you can see, your changes are now ready to be `commit`ted. 
 
-c. `git commit`
+**5c. `git commit`**
 
 Once you're ready to save the files, then it's time to `git commit` them.  
 
@@ -112,7 +125,7 @@ Once you're ready to save the files, then it's time to `git commit` them.
 
 The message should be descriptive enough, but also short and sweet. It is strongly recommended that you commit often, as this will save your work and will help you keep track of changes easier.   
 
-d. `git push` 
+**5d. `git push`** 
 
 Once you're done with the challenge, it's time to show your work in your remote GitHub repository. Let's `git push`.
 
