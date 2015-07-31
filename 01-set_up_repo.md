@@ -37,7 +37,7 @@ This repository is `thisismetis/dsp`. Your forked copy will be `your_github_user
 This makes a copy of the repository in your laptop. Click on the clipboard image on the right sidebar to copy the HTTPS clone URL. 
 
 
-![edit](img/clone_repo.png)
+![edit](img/git_clone.png)
 
 Go to your terminal and navigate to whichever folder you will be using to save the pre-work. Type `git clone` and then paste the clone URL.  
 
@@ -87,16 +87,22 @@ Go to your terminal. If you type `$ git status`, you should get a message like t
 
 ![gst](img/git_status.png)
 
-This means that you have **modified** the files that appear ther. This is what is called the **staging** area. Any files you modify will appear here. 
+This means that you have **modified** the files that appear there. This is what is called the **staging** area. Any files you modify will appear here. 
 
 
 b. `git add`
 
 If you are ready with the changes, then it's time to `git add` the files. 
 
-![add](img/git_add.png)
+You can add all files by typing `$ git add .`, or you can add one by one like above by specifying the path after `$ git add`.  
 
-You can add all the files by typing `$ git add .`, or you can add one by one like above by specifying the path after `$ git add`.  
+![add](img/git_add.png)  
+
+If you type `$ git status` again, you should get something like this:
+
+![add](img/git_post_status.png)  
+
+As you can see, your changes are now ready to be `commit`ted. 
 
 c. `git commit`
 
@@ -113,9 +119,6 @@ Once you're done with the challenge, it's time to show your work in your remote 
 ![push](img/git_push.png)
 
 Your work should now show up in your remote repository.
-
-IMAGE
-
 
 And you're done! (for now)  
 
