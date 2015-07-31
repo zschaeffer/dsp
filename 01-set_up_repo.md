@@ -51,7 +51,7 @@ IMAGE
 
 In this step, you will be using both the terminal and your favorite text editor.  
 
-In this step, you will learn how to complete the challenges in your text editor and then `push` them up to GitHub when you're done. We will **not** be doing any branching, merging, rebasing or any of that fun stuff (yet). GitHub is also a great way to save your work, even if you aren't done with a  challenge at a particular time.  
+You will learn how to complete the challenges in your text editor and then `push` them up to GitHub when you're done. We will **not** be doing any branching, merging, rebasing or any of that fun stuff (yet). GitHub is also a great way to save your work, even if you aren't done with a  challenge at a particular time.  
 
 There's some important terminology to consider for this part before we move on.  
 
@@ -79,9 +79,11 @@ There's four basic commands you should get familiar with:
 
 Let's put this all together now!
 
+a. `git status`  
+
 In your local repository, edit the files for the problem statement with your solution.  
 
-Go to your terminal. If you type `git status`, you should get a message like this:  
+Go to your terminal. If you type `$ git status`, you should get a message like this:  
 
 IMAGE
 
