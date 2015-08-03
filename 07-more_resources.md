@@ -11,3 +11,8 @@ The following tutorials are very helpful in preparing for the bootcamp. It is hi
 
 ###Statistics
 [Jeffrey Simonoff's Regression Course](http://people.stern.nyu.edu/jsimonof/classes/2301/pdf/)
+
+###FAQ  
+
+**Q:  Can I run Windows for the bootcamp, instead of Unix or Linux?**  
+A: No. See explanation [here](https://github.com/thisismetis/dscurriculum/blob/master/00-preclass/on_windows.md).
