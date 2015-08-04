@@ -44,3 +44,27 @@ The following exercises are optional, but we highly encourage you to complete th
 ###Q11. [Think Stats Chapter 9 Exercise 2](statistics/9-2-resampling.md) (resampling)
 
 
+## FAQ  
+
+###**Q:  How do I use the code referenced in the book?**  
+A:  See step-by-step instructions below.  
+
+**Step 1. Create a directory on your computer where you will do the prework.  Below is an example:**
+
+```
+/Users/reshamashaikh/ds/metis/prework
+```
+
+**Step 2. cd into the prework directory.  Use GitHub to pull this repo to your computer.**
+
+```
+$ git clone https://github.com/AllenDowney/ThinkStats2.git
+```
+
+**Step 3.  Put your ipython notebook or python code files in this directory (that way, it can pull the needed dependencies):**
+
+```
+/Users/reshamashaikh/ds/metis/prework/ThinkStats2/code
+```
+
+
