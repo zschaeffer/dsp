@@ -1,4 +1,4 @@
-# Learn Statistics
+# Statistics
 
 Read Allen Downey's [Think Stats (second edition)](http://greenteapress.com/thinkstats2/) and [Think Bayes](http://greenteapress.com/thinkbayes/) for getting up to speed with core ideas in statistics and how to approach them programmatically. Both books are completely available online, or you can buy physical copies if you would like.
 
@@ -13,6 +13,8 @@ Complete the following exercises along with the questions in this file. They com
 Communicate the problem, how you solved it, and the solution, within each of the following [markdown](https://guides.github.com/features/mastering-markdown/) files. (You can include code blocks and images within markdown.)
 
 ---
+
+###Required Exercises
 
 ###Q1. [Think Stats Chapter 2 Exercise 4](statistics/2-4-cohens_d.md) (Cohen's d)
 ###Q2. [Think Stats Chapter 3 Exercise 1](statistics/3-1-actual_biased.md) (actual vs. biased)
@@ -35,7 +37,7 @@ How do frequentist and Bayesian statistics compare?
 
 ---
 
-###Optional
+###Optional Exercises
 
 The following exercises are optional, but we highly encourage you to complete them if you have the time.
 
@@ -43,6 +45,7 @@ The following exercises are optional, but we highly encourage you to complete th
 ###Q10. [Think Stats Chapter 8 Exercise 3](statistics/8-3-scoring.md) (scoring)
 ###Q11. [Think Stats Chapter 9 Exercise 2](statistics/9-2-resampling.md) (resampling)
 
+Some people enjoy video content such as Khan Academy's [Probability and Statistics](https://www.khanacademy.org/math/probability) or the much longer and more in-depth Harvard [Statistics 110](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo). You might also be interested in the book Statistics Done Wrong or a very short overview from School of Data.
 
 ## FAQ  
 
@@ -52,7 +55,8 @@ A:  See step-by-step instructions below.
 **Step 1. Create a directory on your computer where you will do the prework.  Below is an example:**
 
 ```
-/Users/reshamashaikh/ds/metis/prework
+(Mac):      /Users/yourname/ds/metis/prework  
+(Windows):  C:/ds/metis/prework
 ```
 
 **Step 2. cd into the prework directory.  Use GitHub to pull this repo to your computer.**
@@ -64,7 +68,10 @@ $ git clone https://github.com/AllenDowney/ThinkStats2.git
 **Step 3.  Put your ipython notebook or python code files in this directory (that way, it can pull the needed dependencies):**
 
 ```
-/Users/reshamashaikh/ds/metis/prework/ThinkStats2/code
+(Mac):     /Users/yourname/ds/metis/prework/ThinkStats2/code  
+(Windows):  C:/ds/metis/prework/ThinkStats2/code
 ```
+
+
 
 

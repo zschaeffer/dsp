@@ -14,7 +14,7 @@ Metis data science bootcamp. Students should budget **60+ hours** to complete th
  5. Python  
  5a. [Learn Python](05a-python.md)  
  5b. [Advanced Python](05b-python_advanced.md)  
- 6. [Learn Statistics](06-statistics.md)
+ 6. [Statistics](06-statistics.md)
  7. [More Resources](07-more_resources.md)
 
 <h1 style='text-align: center;'>Remember to save your work!</h1>
