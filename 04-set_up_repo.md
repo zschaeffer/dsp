@@ -40,7 +40,7 @@ This makes a copy of the repository in your laptop. Click on the clipboard image
 
 Create the following folders:  
 
-(OSX): `/Users/yourname/ds/metis/prework/dsp`
+(OSX): `/Users/yourname/ds/metis/prework`
 
 Example: /Users/laumontemayor/ds/metis  
 
