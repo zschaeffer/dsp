@@ -86,7 +86,7 @@ Print the first 3 key and value pairs of the dictionary:
 
 >> REPLACE THIS WITH YOUR RESPONSE
 
-####Q8.  It looks like the current dictionary is sorted by first name.  Sort by last name and print the first 3 key and value pairs.  
+####Q8.  It looks like the current dictionary is printing by first name.  Sort by last name and print the first 3 key and value pairs.  
 
 >> REPLACE THIS WITH YOUR RESPONSE
 
