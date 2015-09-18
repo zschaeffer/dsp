@@ -14,9 +14,33 @@ The stats exercises have been chosen to introduce/solidify some relevant statist
 For example, in the first exercise, the author has already written a function to compute Cohen's D.  You could import it, or you could write your own to practice python and develop a deeper understanding of the concept. 
 
 Complete the following exercises along with the questions in this file. They come from Think Stats, and some can be solved using code provided with the book. The preface of Think Stats [explains](http://greenteapress.com/thinkstats2/html/thinkstats2001.html#toc2) how to use the code.  
-*See FAQ at the end of this page for more detailed instructions on cloning the repo.*
 
 Communicate the problem, how you solved it, and the solution, within each of the following [markdown](https://guides.github.com/features/mastering-markdown/) files. (You can include code blocks and images within markdown.)
+
+---
+
+### Instructions for cloning the repo 
+Using the code referenced in the book, follow the step-by-step instructions below.  
+
+**Step 1. Create a directory on your computer where you will do the prework.  Below is an example:**
+
+```
+(Mac):      /Users/yourname/ds/metis/prework  
+(Windows):  C:/ds/metis/prework
+```
+
+**Step 2. cd into the prework directory.  Use GitHub to pull this repo to your computer.**
+
+```
+$ git clone https://github.com/AllenDowney/ThinkStats2.git
+```
+
+**Step 3.  Put your ipython notebook or python code files in this directory (that way, it can pull the needed dependencies):**
+
+```
+(Mac):     /Users/yourname/ds/metis/prework/ThinkStats2/code  
+(Windows):  C:/ds/metis/prework/ThinkStats2/code
+```
 
 ---
 
@@ -74,30 +98,7 @@ The following exercises are optional, but we highly encourage you to complete th
 Some people enjoy video content such as Khan Academy's [Probability and Statistics](https://www.khanacademy.org/math/probability) or the much longer and more in-depth Harvard [Statistics 110](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo). You might also be interested in the book [Statistics Done Wrong](http://www.statisticsdonewrong.com/) or a very short [overview](http://schoolofdata.org/handbook/courses/the-math-you-need-to-start/) from School of Data.
 
 
-## FAQ  
 
-###**Q:  How do I use the code referenced in the book?**  
-A:  See step-by-step instructions below.  
-
-**Step 1. Create a directory on your computer where you will do the prework.  Below is an example:**
-
-```
-(Mac):      /Users/yourname/ds/metis/prework  
-(Windows):  C:/ds/metis/prework
-```
-
-**Step 2. cd into the prework directory.  Use GitHub to pull this repo to your computer.**
-
-```
-$ git clone https://github.com/AllenDowney/ThinkStats2.git
-```
-
-**Step 3.  Put your ipython notebook or python code files in this directory (that way, it can pull the needed dependencies):**
-
-```
-(Mac):     /Users/yourname/ds/metis/prework/ThinkStats2/code  
-(Windows):  C:/ds/metis/prework/ThinkStats2/code
-```
 
 
 
