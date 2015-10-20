@@ -13,6 +13,11 @@ The following tutorials are very helpful in preparing for the bootcamp. It is hi
 [Jeffrey Simonoff's Regression Course](http://people.stern.nyu.edu/jsimonof/classes/2301/pdf/)
 
 
+###SQL
+
+[SQL Zoo Tutorial](http://sqlzoo.net/wiki/SQL_Tutorial)
+
+
 ###Web Development for D3
 
  * [HTML & CSS](https://www.codecademy.com/tracks/web)
