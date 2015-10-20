@@ -4,7 +4,7 @@
 
 This question has multiple parts, and will take **20+ hours** to complete, depending on your python proficiency level.  Knowing these skills will be extremely beneficial during the first few weeks of the bootcamp.
 
-
+For Part 1, use of regular expressions is optional.  Work can be completed using a programming approach of your preference. 
 
 ---
 
@@ -45,6 +45,7 @@ Place your code in this file: [advanced_python_regex.py](python/advanced_python_
 ####Q5.  Write email addresses from Part I to csv file
 
 Place your code in this file: [advanced_python_csv.py](python/advanced_python_csv.py)
+
 The emails.csv file you create should be added and committed to your forked repository.
 
 Your file, emails.csv, will look like this:
