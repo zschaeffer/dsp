@@ -16,7 +16,5 @@ The following tutorials are very helpful in preparing for the bootcamp. It is hi
 ###Web Development for D3
 
 [HTML & CSS](https://www.codecademy.com/tracks/web)
-
 [JavaScript](http://www.codecademy.com/tracks/javascript)
-
 [Eloquent Javascript](http://eloquentjavascript.net/)
