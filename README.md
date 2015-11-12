@@ -11,14 +11,21 @@ Metis data science bootcamp. Students should budget **60+ hours** to complete th
  
  Step 1. [Install software on your computer](01-install.md)
  
- 2. [Choose and learn your editor(s)](02-editors.md)
- 3. [Learn command line](03-command_line.md)  
- 4. [Set up your repository on GitHub](04-set_up_repo.md)
- 5. Python  
- 5a. [Learn Python](05a-python.md)  
- 5b. [Advanced Python](05b-python_advanced.md)  
- 6. [Statistics](06-statistics.md)
- 7. [More Resources](07-more_resources.md)
+ Step 2. [Choose and learn your editor(s)](02-editors.md)
+ 
+ Step 3. [Learn command line](03-command_line.md)  
+ 
+ Step 4. [Set up your repository on GitHub](04-set_up_repo.md)
+ 
+ Step 5. Python  
+ 
+ >Step 5a. [Learn Python](05a-python.md)  
+ 
+ >Step 5b. [Advanced Python](05b-python_advanced.md)  
+ 
+ Step 6. [Statistics](06-statistics.md)
+ 
+ Step 7. [More Resources](07-more_resources.md)
 
 <h1 style='text-align: center;'>Remember to save your work!</h1>
 
