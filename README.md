@@ -8,7 +8,7 @@ Metis data science bootcamp. Students should budget **60+ hours** to complete th
 **All exercises _must_ be completed before the first day of class.**
 
  Step 0. [Fork Repo](00-fork_repo.md)
- 1. [Install software on your computer](01-install.md)
+ Step 1. [Install software on your computer](01-install.md)
  2. [Choose and learn your editor(s)](02-editors.md)
  3. [Learn command line](03-command_line.md)  
  4. [Set up your repository on GitHub](04-set_up_repo.md)
