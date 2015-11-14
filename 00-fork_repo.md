@@ -61,4 +61,4 @@ What is your favorite [emoji](http://www.emoji-cheat-sheet.com/)?
 
 The process above is designed to be accessible to anyone regardless of background. There is much more to learn about `git` and GitHub.  
 
-More advanced instructions are available at [Step 4: Set up repo ](/04_set_up_repo.md)
+More advanced instructions are available at [Step 4: Set up repo ](04-set_up_repo.md)
