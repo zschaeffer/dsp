@@ -5,8 +5,12 @@ The following tutorials are very helpful in preparing for the bootcamp. It is hi
 ###Python
 
 [Google&#39;s Python Class](https://developers.google.com/edu/python/)   
-[Greg Reda&#39;s Pandas Tutorial](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)  
 [Python NumPy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+
+###Python - Pandas
+
+[Greg Reda&#39;s Pandas Tutorial](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)
+[An Introduction to Pandas](http://synesthesiam.com/posts/an-introduction-to-pandas.html)
 
 ###Linear Algebra
 
