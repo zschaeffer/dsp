@@ -17,6 +17,7 @@ The following tutorials are very helpful in preparing for the bootcamp. It is hi
 You should be familiar with the following concepts:  
 * adding vectors
 * matrix multiplication
+* matrix inverse
 * how to visualize lines and planes and hyperplanes; dot product
 * systems of linear equations
 * eigenvalues
