@@ -19,6 +19,7 @@ You should be familiar with the following concepts:
 * matrix multiplication
 * how to visualize lines and planes and hyperplanes; dot product
 * systems of linear equations
+* eigenvalues
 
 ####Linear Algebra Tutorials  
 * [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
