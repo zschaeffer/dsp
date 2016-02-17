@@ -27,9 +27,9 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
----
-
 > > REPLACE THIS TEXT WITH YOUR RESPONSE
+
+---
 
 ###Q3.  More List Files in Unix  
 
