@@ -21,12 +21,12 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 
 What does `ls` do? What do `ls -a`, `ls -l`, and `ls -lh` do? What combinations of those flags are meaningful?
 
-What does `ls` do? What do the following do:
-`ls -a`
-`ls -l`
-`ls -lh`
-`ls -t`
-`ls -Glp`
+What does `ls` do? What do the following do:  
+`ls -a`  
+`ls -l`  
+`ls -lh`  
+`ls -t`  
+`ls -Glp`  
 
 > > REPLACE THIS TEXT WITH YOUR RESPONSE
 
