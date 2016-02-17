@@ -10,6 +10,7 @@ It may sound silly, but [make sure](http://www.typingtest.com/) you know how to 
 
 A lot of your work will be done in a text editor. You have to know how to use your editor. Any editor will work, but knowing a powerful editor well will make you faster, more comfortable, and more effective.
 
+---
 
 ### Terminal Editor
 
