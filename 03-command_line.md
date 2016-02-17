@@ -24,7 +24,7 @@ What do the following commands do:
 `ls -a`  
 `ls -l`  
 `ls -lh`  
-`ls -lah`
+`ls -lah`  
 `ls -t`  
 `ls -Glp`  
 
