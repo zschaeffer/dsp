@@ -29,8 +29,11 @@ What do the following commands do:
 
 > > REPLACE THIS TEXT WITH YOUR RESPONSE
 
+###Q3.  More List Files in Unix  
+
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
+> > REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
