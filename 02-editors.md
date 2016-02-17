@@ -28,7 +28,7 @@ If you intend to use a graphical editor that doesn't run in a terminal, nano mig
 
 Both Emacs and vim have built-in interactive tutorials that you can try.
 
----
+--
 
 ###Q1. Terminal Editor
 
