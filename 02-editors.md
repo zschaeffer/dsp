@@ -29,14 +29,15 @@ Both Emacs and vim have built-in interactive tutorials that you can try.
 
 ---
 
+###Q1. Terminal Editor
+
 What terminal editor will you use? How did you make your decision?
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
-
-### Graphical Editor
+###Graphical Editor
 
 You will probably spend most of your time with access to a graphical interface, where you have more choices in editors and integrated development environments.
 
@@ -58,6 +59,8 @@ Spyder and PyCharm are IDEs for Python. They try to give you a fully configured 
 We will also use Jupyter (IPython) notebooks, but this does not remove the need for proficiency in an editor or IDE.
 
 ---
+
+###Q2. Graphical Editor
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
