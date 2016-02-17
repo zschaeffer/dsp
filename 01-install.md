@@ -35,9 +35,9 @@ import sklearn
 
 ---
 
-###Q1. Python Version Installed
+###Q1. Python Version 2 or 3
 
-Did you install Python 2 or 3? Why? How can you check the version of Python installed if you happen to be on an unfamiliar computer?
+Did you install Python 2 or 3? Why?  
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
