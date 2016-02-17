@@ -59,7 +59,7 @@ Spyder and PyCharm are IDEs for Python. They try to give you a fully configured 
 
 We will also use Jupyter (IPython) notebooks, but this does not remove the need for proficiency in an editor or IDE.
 
----
+--
 
 ###Q2. Graphical Editor
 
