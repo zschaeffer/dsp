@@ -17,9 +17,6 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 
 ---
 
-
----
-
 ###Q2. List Files in Unix   
 
 What does `ls` do? What do `ls -a`, `ls -l`, and `ls -lh` do? What combinations of those flags are meaningful?
@@ -35,8 +32,7 @@ What does `ls` do? What do the following do:
 
 ---
 
-
----
+###Q3. Xargs   
 
 What does `xargs` do? Give an example of how to use it.
 
