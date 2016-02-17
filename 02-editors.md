@@ -28,13 +28,7 @@ If you intend to use a graphical editor that doesn't run in a terminal, nano mig
 
 Both Emacs and vim have built-in interactive tutorials that you can try.
 
---
 
-###Q1. Terminal Editor
-
-What terminal editor will you use? How did you make your decision?
-
->> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
@@ -58,6 +52,14 @@ Sublime is probably the most popular editor for new coders. You can set it up to
 Spyder and PyCharm are IDEs for Python. They try to give you a fully configured setup out of the box.
 
 We will also use Jupyter (IPython) notebooks, but this does not remove the need for proficiency in an editor or IDE.
+
+---
+
+###Q1. Terminal Editor
+
+What terminal editor will you use? How did you make your decision?
+
+>> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 --
 
