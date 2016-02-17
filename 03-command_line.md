@@ -9,7 +9,7 @@ these in a couple of hours.
 
 ---
 
-###Q1. Cheat Sheet of Commands  
+###Q1.  Cheat Sheet of Commands  
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do, focused on things that are new, interesting, or otherwise worth remembering.
 
@@ -17,9 +17,7 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 
 ---
 
-###Q2. List Files in Unix   
-
-What does `ls` do? What do `ls -a`, `ls -l`, and `ls -lh` do? What combinations of those flags are meaningful?
+###Q2.  List Files in Unix   
 
 What does `ls` do? What do the following do:  
 `ls -a`  
@@ -32,7 +30,7 @@ What does `ls` do? What do the following do:
 
 ---
 
-###Q3. Xargs   
+###Q3.  Xargs   
 
 What does `xargs` do? Give an example of how to use it.
 
