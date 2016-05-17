@@ -8,7 +8,7 @@
 [5)  Emoji's](#section-e)  
 [6)  Links](#section-f)  
 [7)  Block Code, Language-specific](#section-g)  
-[8)  Tables](#section-h) 
+[8)  Tables](#section-h)  
 [9)  Practice Examples](#section-i) 
 [References](#section-r)
 
