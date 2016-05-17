@@ -39,6 +39,7 @@ How to add line breaks:
 ## <a name="section-d"></a>4) Horizontal Rules 
 
 Code for line separators:  
+
 ```
 Rule #1
 ---
