@@ -10,6 +10,13 @@ In a markdown file on GitHub, to see how it was formatted, click on "raw" on upp
 
 ---
 
+###Line Breaks
+How to add line breaks:  
+1.  can enclose text in triple back quotes  
+2.  add two spaces to end of line 
+
+---
+
 ###Block Code, Language-specific 
 
 ####python
@@ -55,13 +62,6 @@ SELECT * FROM Customers WHERE Country='Sweden';
 ```
 
 ####Yes, this works for scores of other languages:  [Syntax highlighting in markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown) 
-
----
-
-###Line Breaks
-How to add line breaks:  
-1.  can enclose text in triple back quotes  
-2.  add two spaces to end of line   
 
 ---
 
