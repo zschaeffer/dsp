@@ -30,4 +30,4 @@ The following tutorials are very helpful in preparing for the bootcamp. It is hi
 
 [JavaScript](http://www.codecademy.com/tracks/javascript/)
 
-[Eloquent Javascript](http://eloquentjavascript.net/)
+[Eloquent Javascript (book)](http://eloquentjavascript.net/)
