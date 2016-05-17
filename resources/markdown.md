@@ -9,7 +9,7 @@
 [6)  Links](#section-f)  
 [7)  Block Code, Language-specific](#section-g)  
 [8)  Tables](#section-h)  
-[9)  Practice Examples](#section-i) 
+[9)  Practice Examples](#section-i)  
 [References](#section-r)
 
 ---
