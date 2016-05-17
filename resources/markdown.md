@@ -1,25 +1,79 @@
 ##[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
 
-###Text Formatting
+#### Table of Contents
+[1)  Text Formatting](#section-a)  
+[2)  Referencing Other Markdown Files](#section-b)  
+[3)  Line Breaks](#section-c)  
+[4)  Horizontal Rules](#section-d)  
+[5)  Emoji's](#section-e)  
+[6)  Links](#section-f)  
+[7)  Block Code, Language-specific](#section-g)  
+[8)  Tables](#section-h) 
+[9)  Practice Examples](#section-i) 
+[References](#section-r)
+
+---
+
+## <a name="section-a"></a>1) Text Formatting  
+
 bold: `**bold**`  **bold**  
 italic:  `*italic*` *italic*  
 italic:  `_italic_` _italic_  
 
 ---
 
-###Reference
+## <a name="section-b"></a>2) Referencing Other Markdown Files 
+
 In a markdown file on GitHub, to see how it was formatted, click on "raw" on upper right corner.
 
 ---
 
-###Line Breaks
+## <a name="section-c"></a>3) Line Breaks 
+
 How to add line breaks:  
 1.  can enclose text in triple back quotes  
 2.  add two spaces to end of line 
 
 ---
 
-###Links
+## <a name="section-d"></a>4) Horizontal Rules 
+
+Code for line separators:  
+```
+Rule #1
+---
+Rule #2
+*******
+Rule #3
+___
+```
+Rendered code for line separators:  
+Rule #1
+---
+Rule #2
+*******
+Rule #3
+___
+
+---
+
+## <a name="section-e"></a>5) Emoji's 
+
+Code for emoji's:
+```
+:fireworks:
+:smiley:
+:watermelon:
+```
+Rendered emoji's:  
+:fireworks:  
+:smiley:  
+:watermelon:  
+ 
+---
+
+## <a name="section-f"></a>6) Links 
+
 Text for link:  
 ```Here's an inline link to [Google](http://www.google.com/).```  
 Rendered link:  
@@ -27,7 +81,7 @@ Here's an inline link to [Google](http://www.google.com/).
 
 ---
 
-###Block Code, Language-specific 
+## <a name="section-g"></a>7) Block Code, Language-specific 
 
 ####python
 
@@ -75,7 +129,8 @@ SELECT * FROM Customers WHERE Country='Sweden';
 
 ---
 
-###Tables in Markdown
+## <a name="section-h"></a>8) Tables 
+
 ```
 First Header | Second Header
 ------------ | -------------
@@ -90,7 +145,7 @@ Content in the first column | Content in the second column
 
 ---
 
-###Practice Examples
+## <a name="section-i"></a>9) Practice Examples 
 
 ####Data Science Trivia 
 
@@ -129,3 +184,7 @@ In the scikit-learn's official source repo, about how many issues are outstandin
 >>REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
+
+## <a name="section-r"></a>References 
+
+[Markdown Help](http://mathoverflow.net/editing-help)
