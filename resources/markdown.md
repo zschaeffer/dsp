@@ -1,11 +1,13 @@
 ##[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
 
+###Text Formatting
 bold: `**bold**`  **bold**  
 italic:  `*italic*` *italic*  
 italic:  `_italic_` _italic_  
 
 ---
 
+###Reference
 In a markdown file on GitHub, to see how it was formatted, click on "raw" on upper right corner.
 
 ---
@@ -14,6 +16,14 @@ In a markdown file on GitHub, to see how it was formatted, click on "raw" on upp
 How to add line breaks:  
 1.  can enclose text in triple back quotes  
 2.  add two spaces to end of line 
+
+---
+
+###Links
+Text for link:  
+```Here's an inline link to [Google](http://www.google.com/).```  
+Rendered link:  
+Here's an inline link to [Google](http://www.google.com/).  
 
 ---
 
@@ -80,7 +90,9 @@ Content in the first column | Content in the second column
 
 ---
 
-###Data Science Trivia 
+###Practice Examples
+
+####Data Science Trivia 
 
 ####Q1.  
 What is the most installed language in the world?  
