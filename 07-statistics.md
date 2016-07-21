@@ -25,8 +25,8 @@ Using the code referenced in the book, follow the step-by-step instructions belo
 **Step 1. Create a directory on your computer where you will do the prework.  Below is an example:**
 
 ```
-(Mac):      /Users/yourname/ds/metis/prework  
-(Windows):  C:/ds/metis/prework
+(Mac):      /Users/yourname/ds/metis/metisgh/prework  
+(Windows):  C:/ds/metis/metisgh/prework
 ```
 
 **Step 2. cd into the prework directory.  Use GitHub to pull this repo to your computer.**
@@ -38,8 +38,8 @@ $ git clone https://github.com/AllenDowney/ThinkStats2.git
 **Step 3.  Put your ipython notebook or python code files in this directory (that way, it can pull the needed dependencies):**
 
 ```
-(Mac):     /Users/yourname/ds/metis/prework/ThinkStats2/code  
-(Windows):  C:/ds/metis/prework/ThinkStats2/code
+(Mac):     /Users/yourname/ds/metis/metisgh/prework/ThinkStats2/code  
+(Windows):  C:/ds/metis/metisgh/prework/ThinkStats2/code
 ```
 
 ---
