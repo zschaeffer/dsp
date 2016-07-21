@@ -40,11 +40,11 @@ This makes a copy of the repository in your laptop. Click on the clipboard image
 
 Create the following folders:  
 
-(OSX): `/Users/yourname/ds/metis/prework`
+(OSX): `/Users/yourname/ds/metis/metisgh/prework`
 
-Example: /Users/laumontemayor/ds/metis  
+Example: /Users/laumontemayor/ds/metis/metisgh  
 
-(Windows): `C:/ds/metis/prework`
+(Windows): `C:/ds/metis/metisgh/prework`
 
 Navigate in your terminal to the folder you just created. Type `git clone` and then paste the clone URL.  
 
@@ -52,7 +52,7 @@ Navigate in your terminal to the folder you just created. Type `git clone` and t
 
 Cloning the directory will create the following:
 
-`/Users/yourname/ds/metis/prework/dsp`
+`/Users/yourname/ds/metis/metisgh/prework/dsp`
 
 And now `cd` into the `/dsp` folder. Your terminal window should now show show something like this:
 
