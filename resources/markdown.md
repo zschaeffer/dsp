@@ -5,6 +5,8 @@ Markdown is a simple way to add formatting — like headers, bold/italic text, a
 
 **Important:**  Look at your rendered markdown file before submitting!  :boom:  
 
+---
+
 #### Table of Contents
 [1)  Text Formatting](#section-a)  
 [2)  Referencing Other Markdown Files](#section-b)  
