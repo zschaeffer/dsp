@@ -39,9 +39,9 @@ In a markdown file on GitHub, to see how it was formatted, click on "raw" on upp
 
 ## <a name="section-c"></a>3) Line Breaks 
 
-How to add line breaks:  
-1.  can enclose text in triple back quotes  
-2.  add two spaces to end of line 
+**How to add line breaks:**  
+**1.  add two spaces to end of line**   
+2.  can enclose text in triple back quotes 
 
 ---
 
