@@ -10,9 +10,9 @@ Markdown is a simple way to add formatting — like headers, bold/italic text, a
 ---
 
 #### Table of Contents
-[1)  Text Formatting](#section-a)  
-[2)  Referencing Other Markdown Files](#section-b)  
-[3)  Line Breaks](#section-c)  
+[1)  Line Breaks](#section-a)  
+[2)  Text Formatting](#section-b)  
+[3)  Referencing Other Markdown Files](#section-c)  
 [4)  Horizontal Rules](#section-d)  
 [5)  Emoji's](#section-e)  
 [6)  Links](#section-f)  
@@ -23,7 +23,15 @@ Markdown is a simple way to add formatting — like headers, bold/italic text, a
 
 ---
 
-## <a name="section-a"></a>1) Text Formatting  
+## <a name="section-a"></a>1) Line Breaks 
+
+**How to add line breaks:**  
+**1.  add two spaces to end of line**   
+2.  can enclose text in triple back quotes 
+
+---
+
+## <a name="section-b"></a>2) Text Formatting  
 
 bold: `**bold**`  **bold**  
 italic:  `*italic*` *italic*  
@@ -31,17 +39,9 @@ italic:  `_italic_` _italic_
 
 ---
 
-## <a name="section-b"></a>2) Referencing Other Markdown Files 
+## <a name="section-c"></a>3) Referencing Other Markdown Files 
 
 In a markdown file on GitHub, to see how it was formatted, click on "raw" on upper right corner.
-
----
-
-## <a name="section-c"></a>3) Line Breaks 
-
-**How to add line breaks:**  
-**1.  add two spaces to end of line**   
-2.  can enclose text in triple back quotes 
 
 ---
 
