@@ -12,12 +12,14 @@
 
 ##Part II:  Bootcamp Experience (recommended)
 
-###Blogs
+###[Blogs](/resources/student_blogs.md)
 (Estimated completion time:  10 minutes)
 
 Read [some blogs]() from our alumni on their experience during the data science bootcamp.
 
 ###Jupyter Notebook
+* [Installation](/resources/jupyter_notebook_1_install.md)
+* [Getting Started](/resources/jupyter_notebook_2_use.md)
 (Estimated completion time:  1 hour)
 
 ---
