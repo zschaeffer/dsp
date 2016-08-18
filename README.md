@@ -31,6 +31,10 @@ Metis data science bootcamp. Students should budget **60+ hours** to complete th
 
 <h1 style='text-align: center;'>Remember to save your work!</h1>
 
+## Submitting Pre-work
+
+Make all changes to your forked repo; **this is considered your pre-work submission.**  (No need to submit pull requests to the thisismetis/dsp repo.)
+
 ## FAQ
 
 **Q:  Can I run Windows for the bootcamp, instead of Unix or Linux?**  
