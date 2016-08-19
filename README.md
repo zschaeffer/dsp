@@ -35,7 +35,7 @@ Metis data science bootcamp. Students should budget **60+ hours** to complete th
 
 Make all changes to your forked repo; **this is considered your pre-work submission.**  (No need to submit pull requests to the thisismetis/dsp repo.)
 
-## FAQ
+## Mac vs Windows
 
 **Q:  Can I run Windows for the bootcamp, instead of Unix or Linux?**  
 A: The short answer is this: Don't run Windows.
@@ -52,6 +52,8 @@ You don't necessarily need to buy a new computer. Here are some alternatives:
 **Most people use Macs. They *are* expensive, but they work really well and they have a Linux-similar operating system that lets you just get down to business.**
 
 If you want to spend time learning how to configure things, I recommend learning how to configure Linux over learning how to configure Windows.
+
+## FAQ
 
 **Q:  Can I discuss prework with other students in the course?**  
 A:   Absolutely.
