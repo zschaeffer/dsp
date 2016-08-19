@@ -57,6 +57,7 @@ You don't necessarily need to buy a new computer. Here are some alternatives:
  * You could `ssh` into a remote Linux machine on EC2 and do all your work there. This requires some setup but perhaps less than the above two options. You'll mostly forgo a graphical interface, most likely, and you'll be paying for your computing by the hour.
  * You could try to use git-bash and/or other tools to try to make Windows achieve the functionality of Linux/MacOS. This becomes pretty frustrating pretty frequently and may limit the tools you can use.
 
+---
 
 ## FAQ
 
