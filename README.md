@@ -29,7 +29,7 @@ Metis data science bootcamp. Students should budget **60+ hours** to complete th
  
  Step 8. [More Resources](08-more_resources.md)
 
-<h3 style='text-align: center; style="color:red;"'>Remember to save your work!</h3>
+![save your work](img/save_your_work.png)
 
 ---
 
