@@ -43,6 +43,8 @@ Make all changes to your forked repo; **this is considered your pre-work submiss
 
 ###Case for Mac over Windows
 
+**Most people use Macs. They *are* expensive, but they work really well and they have a Linux-similar operating system that lets you just get down to business.  That way, you can spend more time on data science and less time trouble-shooting.**  
+
 Many Windows users aren’t used to using their computers in the full range of ways that are necessary. In summary, we find that things are more difficult to set up on Windows, and Windows users are less comfortable setting up even simple things. This common combination leads to large productivity hurdles and setbacks to class progress when everyone has to wait for a Windows user to get individual help. On top of this, it's common for productive data scientists to not use Windows, and in particular the instructional staff at Metis *does not* and *should not* spend their time troubleshooting Windows issues.
 
 Specific Examples (of what's more difficult on Windows):
@@ -56,8 +58,6 @@ Specific Examples (of what's more difficult on Windows):
 * scheduling tasks
 
 Windows is discouraged, but some people are actually productive on Windows. It’s like an evolutionary disadvantage; if you’re successful anyway it sometimes means your other traits are quite good.  If you really want to run Windows, maybe you should. But we don’t like to put students in a position where we can’t help them, and **we don’t support Windows.**
-
-**Most people use Macs. They *are* expensive, but they work really well and they have a Linux-similar operating system that lets you just get down to business.**
 
 If you want to spend time learning how to configure things, I recommend learning how to configure Linux over learning how to configure Windows.
 
