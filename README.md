@@ -72,6 +72,8 @@ A: The short answer is this: **Don't run Windows.**
 
 The slightly longer answer is that it is possible to run Windows, but everything is harder. I've never had a student do the class with Windows. I had a student start the class with Windows, but by the second day that student went out and bought a new computer because it was too hard to keep up in Windows.
 
+---
+
 ###If not Mac, not Windows, then ----> Linux
 
 You don't necessarily need to buy a new computer. Here are some alternatives:
