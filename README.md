@@ -74,7 +74,7 @@ The slightly longer answer is that it is possible to run Windows, but everything
 
 ---
 
-###If not Mac, not Windows, then ----> Linux
+###If not Mac, if not Windows, then ---> Linux
 
 You don't necessarily need to buy a new computer. Here are some alternatives:
 
