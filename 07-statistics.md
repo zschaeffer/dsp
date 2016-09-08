@@ -1,11 +1,19 @@
 # Statistics
 
+# Table of Contents
+
+[1. Instructions](#section-a)  
+[2. Instructions for Cloning the Repo](#section-b)  
+[3. Required Exercises](#section-c)  
+[4. Optional Exercises](#section-d)  
+[5. Resources](#section-e)
+
+## <a name="section-a"></a>1.  Instructions
+
 Read Allen Downey's [Think Stats (second edition)](http://greenteapress.com/thinkstats2/) and [Think Bayes](http://greenteapress.com/thinkbayes/) for getting up to speed with core ideas in statistics and how to approach them programmatically. Both books are completely available online, or you can buy physical copies if you would like.
 
 [<img src="img/think_stats.jpg" title="Think Stats"/>](http://greenteapress.com/thinkstats2/)
-[<img src="img/think_bayes.png" title="Think Bayes" style="float: left"; />](http://greenteapress.com/thinkbayes/)  
-
-## Instructions
+[<img src="img/think_bayes.png" title="Think Bayes" style="float: left"; />](http://greenteapress.com/thinkbayes/) 
 
 The ThinkStats book is approximately 200 pages in length.  It is recommended you read the entire book, particularly if you are less familiar with introductory statistical concepts.
 
@@ -19,7 +27,7 @@ Communicate the problem, how you solved it, and the solution, within each of the
 
 ---
 
-## Instructions for cloning the repo 
+## <a name="section-b"></a>2.  Instructions for Cloning the Repo 
 Using the code referenced in the book, follow the step-by-step instructions below.  
 
 **Step 1. Create a directory on your computer where you will do the prework.  Below is an example:**
@@ -44,7 +52,8 @@ $ git clone https://github.com/AllenDowney/ThinkStats2.git
 
 ---
 
-##Required Exercises
+
+## <a name="section-c"></a>3.  Required Exercises
 
 *Include your Python code, results and explanation (where applicable).*
 
@@ -81,7 +90,7 @@ How do frequentist and Bayesian statistics compare?
 
 ---
 
-##Optional Exercises
+## <a name="section-d"></a>4.  Optional Exercises
 
 The following exercises are optional, but we highly encourage you to complete them if you have the time.
 
@@ -97,7 +106,7 @@ In the theoretical world, all data related to an experiment or a scientific prob
 
 ---
 
-## More Resources
+## <a name="section-e"></a>5.  More Resources
 
 Some people enjoy video content such as Khan Academy's [Probability and Statistics](https://www.khanacademy.org/math/probability) or the much longer and more in-depth Harvard [Statistics 110](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo). You might also be interested in the book [Statistics Done Wrong](http://www.statisticsdonewrong.com/) or a very short [overview](http://schoolofdata.org/handbook/courses/the-math-you-need-to-start/) from School of Data.
 
