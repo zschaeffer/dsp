@@ -19,7 +19,7 @@ Communicate the problem, how you solved it, and the solution, within each of the
 
 ---
 
-### Instructions for cloning the repo 
+## Instructions for cloning the repo 
 Using the code referenced in the book, follow the step-by-step instructions below.  
 
 **Step 1. Create a directory on your computer where you will do the prework.  Below is an example:**
@@ -44,7 +44,7 @@ $ git clone https://github.com/AllenDowney/ThinkStats2.git
 
 ---
 
-###Required Exercises
+##Required Exercises
 
 *Include your Python code, results and explanation (where applicable).*
 
@@ -81,7 +81,7 @@ How do frequentist and Bayesian statistics compare?
 
 ---
 
-###Optional Exercises
+##Optional Exercises
 
 The following exercises are optional, but we highly encourage you to complete them if you have the time.
 
