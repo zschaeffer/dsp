@@ -40,6 +40,9 @@ The following tutorials are very helpful in preparing for the bootcamp. It is hi
  * [Greg Reda&#39;s Pandas Tutorial](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)  
  * [An Introduction to Pandas](http://synesthesiam.com/posts/an-introduction-to-pandas.html)
 
+### Data Science
+ * [Data Science for Business (O'Reilly book available for purchase)](http://shop.oreilly.com/product/0636920028918.do)
+ 
 ###Statistics
  * [Jeffrey Simonoff's Regression Course](http://people.stern.nyu.edu/jsimonof/classes/2301/pdf/)
 
