@@ -4,15 +4,15 @@
 Computing's interface is text. To work effectively, you need to be fluent with this interface.
 
 
-### Typing
+## Typing
 
-It may sound silly, but [make sure](http://www.typingtest.com/) you know how to type. You should be comfortable typing with perfect accuracy at 60 words per minute, at least. If you currently can't, practice until you can.
+It may sound silly, but make sure you know how to type.  Take this [typing test](http://www.typingtest.com/). You should be comfortable typing with perfect accuracy at 60 words per minute, at least. If you currently can't, practice until you can.
 
 A lot of your work will be done in a text editor. You have to know how to use your editor. Any editor will work, but knowing a powerful editor well will make you faster, more comfortable, and more effective.
 
 ---
 
-### Terminal Editor
+## Terminal Editor
 
 Sometimes you will need to use a non-graphical text editor. This means an editor that will run entirely inside a terminal window, without spawning a new window, entirely without mouse input.
 
@@ -32,7 +32,7 @@ Both Emacs and vim have built-in interactive tutorials that you can try.
 
 ---
 
-###Graphical Editor
+## Graphical Editor
 
 You will probably spend most of your time with access to a graphical interface, where you have more choices in editors and integrated development environments.
 
@@ -56,7 +56,7 @@ We will also use Jupyter (IPython) notebooks, but this does not remove the need 
 
 ---
 
-###Q1. Terminal Editor
+### Q1. Terminal Editor
 
 What terminal editor will you use? How did you make your decision?
 
@@ -64,7 +64,7 @@ What terminal editor will you use? How did you make your decision?
 
 --
 
-###Q2. Graphical Editor
+### Q2. Graphical Editor
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
