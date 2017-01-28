@@ -31,11 +31,11 @@ You should know how to do the following tasks, *at the minimum*, on **nano** and
 
 Here's a basic list of commands:  
 
-|   |terminal editor| open a file    |  edit a file |  save a file       |  exit a file  |  
-|---|----------------|----------------|--------------|--------------------|---------------|
-| 1 | nano           | nano filen.py  | [just type]  | ctrl + o, enter    | ctrl + x      |
-| 2 | vim, vi        | vim filen.py   | [just type]  | esc :w             | esc :q        |
-| 3 | emacs          | emacs filen.py | [just type]  | ctrl-x, xtrl-s     | ctrl-x, ctr-c |
+|   |terminal editor | open a file    |  edit a file |  save a file       |  exit a file   |  
+|---|----------------|----------------|--------------|--------------------|----------------|
+| 1 | nano           | nano filen.py  | [just type]  | ctrl + o, enter    | ctrl + x       |
+| 2 | vim, vi        | vim filen.py   | [just type]  | esc :w             | esc :q         |
+| 3 | emacs          | emacs filen.py | [just type]  | ctrl-x, xtrl-s     | ctrl-x, ctrl-c |
  
 
 ---
