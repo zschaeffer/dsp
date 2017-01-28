@@ -31,27 +31,12 @@ You should know how to do the following tasks, *at the minimum*, on **nano** and
 
 Here's a basic list of commands:  
 
-|   | Terminal Editor| open a file    |  edit a file |  save a file       |  exit a file  |  
+|   |terminal editor| open a file    |  edit a file |  save a file       |  exit a file  |  
 |---|----------------|----------------|--------------|--------------------|---------------|
 | 1 | nano           | nano filen.py  | [just type]  | ctrl + o, enter    | ctrl + x      |
-| 2 | vim, vi        | vim filen.py   |              | esc :w             | esc :q        |
+| 2 | vim, vi        | vim filen.py   | [just type]  | esc :w             | esc :q        |
 | 3 | emacs          | emacs filen.py | [just type]  | ctrl-x, xtrl-s     | ctrl-x, ctr-c |
  
-### Task
-
-1.  Create a file called `nutmeg.py`, using **nano**, add a couple of lines of text, save and exit.  
-Some sample lines:  
-```
-print("This file was created using the nano editor")
-print("This file was created by Reshama")
-```
-2.  Create a file called `vinegar.py` using **vim**, add a couple of lines of code, save and exit.
-3.  Create a file called `egg.py` using **emacs**, add a couple of lines of code, save and exit.
-
-Upload these 3 files to the [`editors`](editors/) folder.  
-
-
-
 
 ---
 
@@ -79,15 +64,28 @@ We will also use Jupyter (IPython) notebooks, but this does not remove the need 
 
 ---
 
-### Q1. Terminal Editor
+### Q1:  Create Files with Terminal Editors
 
-What terminal editor will you use? How did you make your decision?
+1.  Create a file called `nutmeg.py`, using **nano**, add a couple of lines of text, save and exit.  
+Some sample lines:  
+```
+print("This file was created using the nano editor")
+print("This file was created by Reshama")
+```
+2.  Create a file called `vinegar.py` using **vim**, add a couple of lines of code, save and exit.
+3.  Create a file called `egg.py` using **emacs**, add a couple of lines of code, save and exit.
+
+Upload these 3 files to the [`editors`](editors/) folder.  
+
+### Q2. Terminal Editor
+
+What terminal editor will be your preferred choice of use? How did you make your decision?
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 --
 
-### Q2. Graphical Editor
+### Q3. Graphical Editor
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
