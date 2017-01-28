@@ -14,8 +14,6 @@ A lot of your work will be done in a text editor. You have to know how to use yo
 
 ## Terminal Editor
 
-## Terminal Editor
-
 You will need to use a terminal text editor at times.  You will always need to be familiar with a terminal editor on the cloud (e.g. Amazon Web Services).  This means an editor that will run entirely inside a terminal window, without spawning a new window, entirely without mouse input.
 
 There are 3 widely used terminal editors.  Here's a [discussion comparing **nano**, **vim**, and **emacs**](http://askubuntu.com/questions/804/comparizon-between-text-editors-in-ubuntu-vim-vs-emacs-vs-nano).  
