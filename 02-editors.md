@@ -23,7 +23,7 @@ There are 3 widely used terminal editors.  Here's a [discussion comparing **nano
  
 Note:  Both Emacs and vim have built-in interactive tutorials that you can try.
 
-You should know how to do the following tasks, *at the minimum*, on **vim** and **nano**:  
+You should know how to do the following tasks, *at the minimum*, on **nano** and **vim**:  
 1.  open a file  
 2.  edit a file  
 3.  save a file  
