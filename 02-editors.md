@@ -14,19 +14,44 @@ A lot of your work will be done in a text editor. You have to know how to use yo
 
 ## Terminal Editor
 
-Sometimes you will need to use a non-graphical text editor. This means an editor that will run entirely inside a terminal window, without spawning a new window, entirely without mouse input.
+## Terminal Editor
 
-Make sure that you know at least one of these well enough to do basic editing in a terminal:
+You will need to use a terminal text editor at times.  You will always need to be familiar with a terminal editor on the cloud (e.g. Amazon Web Services).  This means an editor that will run entirely inside a terminal window, without spawning a new window, entirely without mouse input.
 
- * Emacs
- * vim
- * nano
+There are 3 widely used terminal editors.  Here's a [discussion comparing **nano**, **vim**, and **emacs**](http://askubuntu.com/questions/804/comparizon-between-text-editors-in-ubuntu-vim-vs-emacs-vs-nano).  
+ * [nano](http://staffwww.fullcoll.edu/sedwards/Nano/IntroToNano.html) - this is the simplest to use 
+ * [vim](http://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/) - is the default on many systems and you might find yourself in it even if you did not intend to
+ * [emacs](http://ocean.stanford.edu/research/quick_emacs.html) - oldest editor, has steep learning curve, powerful, has lots of extensible options
+ 
+Note:  Both Emacs and vim have built-in interactive tutorials that you can try.
 
-You should know at least enough vim to be able to get out of it, because it is the default on many systems and you might find yourself in it even if you didn't mean to be.
+You should know how to do the following tasks, *at the minimum*, on **vim** and **nano**:  
+1.  open a file  
+2.  edit a file  
+3.  save a file  
+4.  exit a file   
 
-If you intend to use a graphical editor that doesn't run in a terminal, nano might be a good choice for you because it is very simple.
+Here's a basic list of commands:  
 
-Both Emacs and vim have built-in interactive tutorials that you can try.
+|   | Terminal Editor| open a file    |  edit a file |  save a file       |  exit a file |  
+|---|----------------|----------------|--------------|--------------------|--------------|
+| 1 | nano           | nano filen.py  | [just type]  | ctrl + o, enter    | ctrl + x     |
+| 2 | vim            | vim filen.py   | esc :e       | esc :w             | esc :wq!     |
+| 3 | emacs          | emacs filen.py | [just type]  | ctrl-x, xtrl-s     | ctrl + x     |
+ 
+### Task
+
+1.  Create a file called `nutmeg.py`, using **nano**, add a couple of lines of text, save and exit.  
+Some sample lines:  
+```
+print("This file was created using the nano editor")
+print("This file was created by Reshama")
+```
+2.  Create a file called `vinegar.py` using **vim**, add a couple of lines of code, save and exit.
+3.  Create a file called `egg.py` using **emacs**, add a couple of lines of code, save and exit.
+
+Upload these 3 files to the [`editors`](editors/) folder.  
+
 
 
 
