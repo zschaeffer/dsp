@@ -94,6 +94,14 @@ You don't necessarily need to buy a new computer. Here are some alternatives:
  * **EC2:**  You could `ssh` into a remote Linux machine on EC2 and do all your work there. This requires some setup but perhaps less than the above two options. You'll mostly forgo a graphical interface, most likely, and you'll be paying for your computing by the hour.
  * **Git Bash:** You could try to use git-bash and/or other tools to try to make Windows achieve the functionality of Linux/MacOS. This becomes pretty frustrating pretty frequently and may limit the tools you can use.
 
+###Which type of Linux?
+
+So you've decided to install Linux on your computer or in a virtual machine? Which kind should you install?
+
+If you have limited experience with Linux (i.e. if you have to ask the question about which kind of Linux to install), then you should install Ubuntu. There are quirks to each version of Linux, so it's best to choose something the instructors and TAs are familiar with.
+
+If you have a lot of familiarity with Linux (say > 1 year), then you may install whatever kind you are most familiar with. Recognize that the instructors may only be able to offer limited assistance if you do so.
+
 ---
 
 ## <a name="section-d"></a>4.  FAQs
