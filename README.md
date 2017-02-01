@@ -54,7 +54,7 @@ Make all changes to your forked repo; **this is considered your pre-work submiss
 
 ## <a name="section-c"></a>3.  Mac vs Windows
 
-###Case for Mac over Windows
+### Case for Mac over Windows
 
 **Most people use Macs. They *are* expensive, but they work really well and they have a Linux-similar operating system that lets you just get down to business.  That way, you can spend more time on data science and less time trouble-shooting.**  
 
@@ -77,7 +77,7 @@ Windows is discouraged, but some people are actually productive on Windows. Itâ€
 If you want to spend time learning how to configure things, I recommend learning how to configure Linux over learning how to configure Windows.
 
 
-###Running Windows - Don't Do It
+### Running Windows - Don't Do It
 
 **Q:  Can I run Windows for the bootcamp, instead of Unix or Linux?**  
 A: The short answer is this: **Don't run Windows.**
@@ -85,7 +85,7 @@ A: The short answer is this: **Don't run Windows.**
 The slightly longer answer is that it is possible to run Windows, but everything is harder. I've never had a student do the class with Windows. I had a student start the class with Windows, but by the second day that student went out and bought a new computer because it was too hard to keep up in Windows.
 
 
-###If not Mac, if not Windows, then ---> Linux
+### If not Mac, if not Windows, then ---> Linux
 
 You don't necessarily need to buy a new computer. Here are some alternatives:
 
@@ -94,11 +94,11 @@ You don't necessarily need to buy a new computer. Here are some alternatives:
  * **EC2:**  You could `ssh` into a remote Linux machine on EC2 and do all your work there. This requires some setup but perhaps less than the above two options. You'll mostly forgo a graphical interface, most likely, and you'll be paying for your computing by the hour.
  * **Git Bash:** You could try to use git-bash and/or other tools to try to make Windows achieve the functionality of Linux/MacOS. This becomes pretty frustrating pretty frequently and may limit the tools you can use.
 
-###Which type of Linux?
+### Which type of Linux?
 
 So you've decided to install Linux on your computer or in a virtual machine? Which kind should you install?
 
-If you have limited experience with Linux (i.e. if you have to ask the question about which kind of Linux to install), then you should install Ubuntu. There are quirks to each version of Linux, so it's best to choose something the instructors and TAs are familiar with.
+If you have limited experience with Linux (i.e. if you have to ask the question about which kind of Linux to install), then you should **install Ubuntu.** There are quirks to each version of Linux, so it's best to choose something the instructors and TAs are familiar with.
 
 If you have a lot of familiarity with Linux (say > 1 year), then you may install whatever kind you are most familiar with. Recognize that the instructors may only be able to offer limited assistance if you do so.
 
