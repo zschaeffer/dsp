@@ -45,6 +45,7 @@ The following tutorials are very helpful in preparing for the bootcamp. It is hi
  
 ### Statistics
  * [Jeffrey Simonoff's Regression Course](http://people.stern.nyu.edu/jsimonof/classes/2301/pdf/)
+ * [Introduction to Probability (2e) by Dimitri P. Bertsekas & John N. Tsitsiklis (online book)](https://www.scribd.com/doc/179695789/Book-Introduction-to-Probability-2e-by-Dimitri-P-Bertsekas-John-N-Tsitsiklis)
 
 ### Greek Math Letters
 
