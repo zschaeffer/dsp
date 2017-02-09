@@ -28,7 +28,7 @@ The stats exercises have been chosen to introduce/solidify some relevant statist
 
 For example, in the first exercise, the author has already written a function to compute Cohen's D.  **You could import it, or you could write your own code to practice python and develop a deeper understanding of the concept.** 
 
-Think Stats uses a higher degree of python complexity from the python tutorials and introductions to python concepts, and that is intentional to prepare you for Week 1 of the bootcamp.  
+Think Stats uses a higher degree of python complexity from the python tutorials and introductions to python concepts, and that is intentional to prepare you for the bootcamp.  
 
 ---
 
