@@ -22,7 +22,11 @@ Metis data science bootcamp. Students should budget **60+ hours** to complete th
  
  Step 0.5 [Review Markdown formatting before beginning work](/resources/markdown.md) 
  
- Step 1. [Install software on your computer](01-install.md)
+ Step 1.  Installation  
+ 
+ >Step 1a. [Install software on your computer](01a-install.md)  
+ 
+ >Step 1b. [Install Jupyter Notebook on your computer](01b-install_jupyter.md)  
  
  Step 2. [Choose and learn your editor(s)](02-editors.md)
  
