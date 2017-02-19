@@ -1,4 +1,4 @@
-# Jupyter (IPython) Notebook:  Getting Started
+# Jupyter Notebook:  Getting Started
 The Jupyter notebook is an interactive computational environment, in which you can combine code, execution, rich text, mathematics, plots and rich media. 
 
 ---
