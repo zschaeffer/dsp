@@ -5,7 +5,7 @@
 
 Pandas is a Python library for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.   
 
-Pandas is a Python package providing fast, flexible, and expressive data structures designed to make working with “relational” or “labeled” data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python.
+Pandas provides fast, flexible, and expressive data structures designed to make working with “relational” or “labeled” data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python.
 
 ### Pandas - the name
 The name is derived from the term "Panel data", an econometrics term for multidimensional structured data sets.  
@@ -29,14 +29,14 @@ The name is derived from the term "Panel data", an econometrics term for multidi
 ---
 
 ## Objective
-This section is intended to be an introduction to pandas.  Explore the "Pandas Resources" links for more advanced options.
+This section of the Python pre-work is intended to be an introduction to pandas.  Explore the "Pandas Resources" links for more advanced options.
 
 ---
 
 ## Exercises
 
 ### Part 1:  Review Pandas Example
-Review the Jupyter Notebook `1_pandas_jeopardy.ipynb` which uses the `jeopardy.csv` data.
+Review the Jupyter Notebook [`1_pandas_jeopardy.ipynb`](python/pandas/1_pandas_jeopardy.ipynb) which uses the `jeopardy.csv` data.
 
 ### Part 2:  Try Pandas 
 * Open the Jupyter Notebook `2_pandas_olive.ipynb'
