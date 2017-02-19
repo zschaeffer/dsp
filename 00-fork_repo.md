@@ -6,7 +6,7 @@ You have two options to complete parts 1-3 (Install, Editors, Command Line).
 
 The process below is designed to be accessible to anyone regardless of background in `git`.  
 
-:boom: **Watch this [10-minute video, *Getting Started with Git*](https://vimeo.com/178481263?mc_cid=06d951b22e&mc_eid=[UNIQID]), which covers all the steps below.** :boom:  
+>:boom: **Watch this [10-minute video, *Getting Started with Git*](https://vimeo.com/178481263?mc_cid=06d951b22e&mc_eid=[UNIQID]), which covers all the steps below.** :boom:  
 The [list of commands used in the video](/resources/git_video_history.md) are available.
 
 ---
@@ -59,6 +59,5 @@ Here's your first chance to practice this:
 
 What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emoji-cheat-sheet.com/).)
 
->>  
-
+>> REPLACE THIS TEXT WITH YOUR RESPONSE
 
