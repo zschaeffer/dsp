@@ -16,20 +16,17 @@ The name is derived from the term "Panel data", an econometrics term for multidi
 ---
 
 ## Pandas Resources
-#### a)  Chris Albon (Data Wrangling section)  
-    http://chrisalbon.com/  
-    Missing Data http://chrisalbon.com/python/pandas_missing_data.html
+#### [Chris Albon (Data Wrangling section)](http://chrisalbon.com/)  
+Missing Data http://chrisalbon.com/python/pandas_missing_data.html
 
-#### b)  Greg Reda (Intro to Pandas Data Structures)  
-    http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/  
+#### [Greg Reda (Intro to Pandas Data Structures)](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)  
 
-#### c)  Things in Pandas I wish I Had Known Sooner  
-    http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb?utm_source=Python+Weekly+Newsletter&utm_campaign=8416b188e6-Python_Weekly_Issue_176_January_29_2015&utm_medium=email&utm_term=0_9e26887fc5-8416b188e6-312716773#Selecting-NaN-Rows
+#### [Things in Pandas I wish I Had Known Sooner](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb?utm_source=Python+Weekly+Newsletter&utm_campaign=8416b188e6-Python_Weekly_Issue_176_January_29_2015&utm_medium=email&utm_term=0_9e26887fc5-8416b188e6-312716773#Selecting-NaN-Rows)
     
 ---
 
 ## Objective
-This section of the Python pre-work is intended to be an introduction to pandas.  Explore the "Pandas Resources" links for more advanced options.
+This section of the Python pre-work is intended to be an introduction to Pandas.  Explore the "Pandas Resources" links for more advanced options.
 
 ---
 
