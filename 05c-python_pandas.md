@@ -20,7 +20,7 @@ The name is derived from the term "Panel data", an econometrics term for multidi
 
 ## Pandas Resources
 #### [Chris Albon (Data Wrangling section)](http://chrisalbon.com/)  
-* [Missing Data http://chrisalbon.com/python/pandas_missing_data.html
+* [Chris Albon (Missing Data)](http://chrisalbon.com/python/pandas_missing_data.html)
 
 #### [Greg Reda (Intro to Pandas Data Structures)](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)  
 
