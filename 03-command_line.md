@@ -8,7 +8,8 @@ tutorial](https://web.archive.org/web/20160708171659/http://cli.learncodethehard
 ### Q1.  Cheat Sheet of Commands  
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  
-Here's a list of bash commands that are widely used and helpful:  
+Here's a list of items with which you should be familiar:  
+* show current working directory path
 * creating a directory
 * deleting a directory
 * creating a file using `touch` command
