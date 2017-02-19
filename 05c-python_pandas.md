@@ -36,7 +36,7 @@ This section of the Python pre-work is intended to be an introduction to Pandas.
 Review the Jupyter Notebook [`1_pandas_jeopardy.ipynb`](python/pandas/1_pandas_jeopardy.ipynb) which uses the `jeopardy.csv` data.
 
 ### Part 2:  Try Pandas 
-* Open the Jupyter Notebook [`2_pandas_olive.ipynb`](python/pandas/2_pandas_olive.ipynb.ipynb) which uses the `olive.csv` data.
+* Open the Jupyter Notebook [`2_pandas_olive.ipynb`](python/pandas/2_pandas_olive.ipynb) which uses the `olive.csv` data.
 * Make a copy of the notebook and name it `3_pandas_olive_myname.ipynb`.  (Example:  my notebook would be called `3_pandas_olive_reshama.ipynb`).
 * Edit this notebook.  Go through the exercises.
 
