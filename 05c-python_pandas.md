@@ -29,7 +29,7 @@ The name is derived from the term "Panel data", an econometrics term for multidi
 
 ---
 
-## Exercises
+## Exercises :boom:
 
 ### Part 1:  Review Pandas Example
 Review the Jupyter Notebook [`1_pandas_jeopardy_example.ipynb`](python/pandas/1_pandas_jeopardy_example.ipynb) which uses the `jeopardy.csv` data.
