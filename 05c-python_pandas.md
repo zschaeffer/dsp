@@ -1,5 +1,8 @@
 # Python:  Pandas    
 
+## Objective
+This section of the Python pre-work is intended to be an introduction to Pandas.  Explore the "Pandas Resources" links below for more advanced options.
+
 ## Introduction
 ### What is Pandas?
 
@@ -23,10 +26,6 @@ The name is derived from the term "Panel data", an econometrics term for multidi
 
 #### [Things in Pandas I wish I Had Known Sooner](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb?utm_source=Python+Weekly+Newsletter&utm_campaign=8416b188e6-Python_Weekly_Issue_176_January_29_2015&utm_medium=email&utm_term=0_9e26887fc5-8416b188e6-312716773#Selecting-NaN-Rows)
     
----
-
-## Objective
-This section of the Python pre-work is intended to be an introduction to Pandas.  Explore the "Pandas Resources" links for more advanced options.
 
 ---
 
@@ -41,3 +40,16 @@ Review the Jupyter Notebook [`1_pandas_jeopardy_example.ipynb`](python/pandas/1_
 * Update the header at the top by adding in your name and date.
 * Edit this notebook and complete the exercises.
 
+---
+
+## Optional Pandas Topics:  To Explore Further
+
+* dealing with missing data `NaN`, etc.
+* `groupby` objects
+* applying functions
+* indexing
+* conditional selecting; filtering
+* selecting rows and columns: `.loc`, `.iloc`, `.ix`
+* find missing data:  Null, NaN, etc.
+* sorting
+* merge, join
