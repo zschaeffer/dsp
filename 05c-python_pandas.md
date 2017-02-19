@@ -50,6 +50,6 @@ Review the Jupyter Notebook [`1_pandas_jeopardy_example.ipynb`](python/pandas/1_
 * indexing
 * conditional selecting; filtering
 * selecting rows and columns: `.loc`, `.iloc`, `.ix`
-* find missing data:  Null, NaN, etc.
+* find missing data:  `Null`, `NaN`, `None`, etc.
 * sorting
 * merge, join
