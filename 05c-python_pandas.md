@@ -44,12 +44,11 @@ Review the Jupyter Notebook [`1_pandas_jeopardy_example.ipynb`](python/pandas/1_
 
 ## Optional Pandas Topics:  To Explore Further
 
-* dealing with missing data `NaN`, etc.
 * `groupby` objects
 * applying functions
 * indexing
 * conditional selecting; filtering
 * selecting rows and columns: `.loc`, `.iloc`, `.ix`
-* find missing data:  `Null`, `NaN`, `None`, etc.
+* working with missing data:  `Null`, `NaN`, `None`
 * sorting
 * merge, join
