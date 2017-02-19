@@ -1,7 +1,7 @@
 # Python:  Pandas    
 
 ## Introduction
-### What is pandas?
+### What is Pandas?
 
 Pandas is a Python library for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.   
 
@@ -10,7 +10,7 @@ Pandas provides fast, flexible, and expressive data structures designed to make 
 ### Pandas - the name
 The name is derived from the term "Panel data", an econometrics term for multidimensional structured data sets.  
 
-### What is a pandas data frame?  
+### What is a Pandas data frame?  
 **DataFrame** is a 2-dimensional labeled data structure with columns of potentially different types. You can think of it like a spreadsheet or SQL table, or a dict of Series objects. It is generally the most commonly used pandas object.
 
 ---
