@@ -14,7 +14,7 @@
 
 [<img src="img/think_stats.jpg" title="Think Stats"/>](http://greenteapress.com/thinkstats2/)
 
-Use Allen Downey's [Think Stats (second edition)](http://greenteapress.com/thinkstats2/) for getting up to speed with core ideas in statistics and how to approach them programmatically. This books is available online, or you can buy a paper copy if you would like.
+Use Allen Downey's [Think Stats (second edition)](http://greenteapress.com/thinkstats2/) book for getting up to speed with core ideas in statistics and how to approach them programmatically. This book is available online, or you can buy a paper copy if you would like.
 
 Use this book as a reference when answering the 6 required statistics questions below.  The ThinkStats book is approximately 200 pages in length.  **It is recommended that you read the entire book, particularly if you are less familiar with introductory statistical concepts.**
 
