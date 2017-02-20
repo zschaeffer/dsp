@@ -12,14 +12,13 @@
 
 ## <a name="section-a"></a>1.  Introduction
 
-Read Allen Downey's [Think Stats (second edition)](http://greenteapress.com/thinkstats2/) for getting up to speed with core ideas in statistics and how to approach them programmatically. This books is available online, or you can buy a paper copy if you would like.
-
 [<img src="img/think_stats.jpg" title="Think Stats"/>](http://greenteapress.com/thinkstats2/)
 
+Use Allen Downey's [Think Stats (second edition)](http://greenteapress.com/thinkstats2/) for getting up to speed with core ideas in statistics and how to approach them programmatically. This books is available online, or you can buy a paper copy if you would like.
 
-The ThinkStats book is approximately 200 pages in length.  It is recommended you read the entire book, particularly if you are less familiar with introductory statistical concepts.
+Use this book as a reference when answering the 6 required statistics questions below.  The ThinkStats book is approximately 200 pages in length.  **It is recommended that you read the entire book, particularly if you are less familiar with introductory statistical concepts.**
 
-Complete the following exercises along with the questions in this file. They come from Think Stats, and some can be solved using code provided with the book. The preface of Think Stats [explains](http://greenteapress.com/thinkstats2/html/thinkstats2001.html#toc2) how to use the code.  
+Complete the following exercises along with the questions in this file. Some can be solved using code provided with the book. The preface of Think Stats [explains](http://greenteapress.com/thinkstats2/html/thinkstats2001.html#toc2) how to use the code.  
 
 Communicate the problem, how you solved it, and the solution, within each of the following [markdown](https://guides.github.com/features/mastering-markdown/) files. (You can include code blocks and images within markdown.)
 
