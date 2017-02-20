@@ -7,7 +7,7 @@
 [3. Instructions for Cloning the Repo](#section-c)  
 [4. Required Exercises](#section-d)  
 [5. Optional Exercises](#section-e)  
-[6. Recommended Reading](#section-f)
+[6. Recommended Reading](#section-f)  
 [7. Resources](#section-g)
 
 ## <a name="section-a"></a>1.  Introduction
