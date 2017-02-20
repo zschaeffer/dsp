@@ -15,7 +15,7 @@
 Read Allen Downey's [Think Stats (second edition)](http://greenteapress.com/thinkstats2/) for getting up to speed with core ideas in statistics and how to approach them programmatically. This books is available online, or you can buy a paper copy if you would like.
 
 [<img src="img/think_stats.jpg" title="Think Stats"/>](http://greenteapress.com/thinkstats2/)
-[<img src="img/think_bayes.png" title="Think Bayes" style="float: left"; />](http://greenteapress.com/thinkbayes/) 
+
 
 The ThinkStats book is approximately 200 pages in length.  It is recommended you read the entire book, particularly if you are less familiar with introductory statistical concepts.
 
@@ -116,7 +116,7 @@ In the theoretical world, all data related to an experiment or a scientific prob
 
 Read Allen Downey's [Think Bayes](http://greenteapress.com/thinkbayes/) book.  It is available online for free, or you can buy a paper copy if you would like.
 
-
+[<img src="img/think_bayes.png" title="Think Bayes" style="float: left"; />](http://greenteapress.com/thinkbayes/) 
 
 ---
 
