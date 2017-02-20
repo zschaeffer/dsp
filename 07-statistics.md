@@ -7,11 +7,12 @@
 [3. Instructions for Cloning the Repo](#section-c)  
 [4. Required Exercises](#section-d)  
 [5. Optional Exercises](#section-e)  
-[6. Resources](#section-f)
+[6. Recommended Reading](#section-f)
+[7. Resources](#section-g)
 
 ## <a name="section-a"></a>1.  Introduction
 
-Read Allen Downey's [Think Stats (second edition)](http://greenteapress.com/thinkstats2/) and [Think Bayes](http://greenteapress.com/thinkbayes/) for getting up to speed with core ideas in statistics and how to approach them programmatically. Both books are completely available online, or you can buy physical copies if you would like.
+Read Allen Downey's [Think Stats (second edition)](http://greenteapress.com/thinkstats2/) for getting up to speed with core ideas in statistics and how to approach them programmatically. This books is available online, or you can buy a paper copy if you would like.
 
 [<img src="img/think_stats.jpg" title="Think Stats"/>](http://greenteapress.com/thinkstats2/)
 [<img src="img/think_bayes.png" title="Think Bayes" style="float: left"; />](http://greenteapress.com/thinkbayes/) 
@@ -111,6 +112,14 @@ In the theoretical world, all data related to an experiment or a scientific prob
 
 ---
 
-## <a name="section-f"></a>6.  More Resources
+## <a name="section-f"></a>6.  Recommended Reading
+
+Read Allen Downey's [Think Bayes](http://greenteapress.com/thinkbayes/) book.  It is available online for free, or you can buy a paper copy if you would like.
+
+
+
+---
+
+## <a name="section-g"></a>7.  More Resources
 
 Some people enjoy video content such as Khan Academy's [Probability and Statistics](https://www.khanacademy.org/math/probability) or the much longer and more in-depth Harvard [Statistics 110](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo). You might also be interested in the book [Statistics Done Wrong](http://www.statisticsdonewrong.com/) or a very short [overview](http://schoolofdata.org/handbook/courses/the-math-you-need-to-start/) from School of Data.
