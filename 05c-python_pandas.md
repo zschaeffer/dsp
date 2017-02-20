@@ -1,4 +1,4 @@
-# Python:  Pandas    
+# Python:  Introduction to Pandas    
 
 ## Objective
 This section of the Python pre-work is intended to be an introduction to Pandas.  Explore the "Pandas Resources" links below for more advanced options.
