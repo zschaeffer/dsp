@@ -1,7 +1,7 @@
 ## Metis Data Science Bootcamp
 ### Blogs
 
-[Choosing Metis (by Lorena De La Parra Landa, NYC Winter 2017, Cohort 10)](https://lorenaparralanda.github.io/First_Post/)
+[Why I Chose Metis (by Lorena De La Parra Landa, NYC Winter 2017, Cohort 10)](https://lorenaparralanda.github.io/First_Post/)
 
 You'll find the following blogs helpful in learning more about your upcoming experience at Metis:
 * [Reflecting on my Metis Data Science Bootcamp Experience (by Max Melnick, NYC Spring 2016, Cohort 7)](http://maxmelnick.com/2016/07/13/metis-experience.html)
