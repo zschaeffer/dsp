@@ -173,7 +173,7 @@ What is the most installed language in the world?
 
 >>REPLACE THIS TEXT WITH YOUR RESPONSE
 
--
+***
 
 #### Q2.  
 In hypothesis testing, we use the t score when the sample size is < 30 and the populations SD is unknown; else we use the Z score. 
