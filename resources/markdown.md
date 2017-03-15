@@ -186,7 +186,7 @@ What is the distribution of t-squared?
 
 >>REPLACE THIS TEXT WITH YOUR RESPONSE
 
-***
+---
 
 #### Q3.  
 In the scikit-learn's official source repo, about how many issues are outstanding? (go ahead and check out their page)  
