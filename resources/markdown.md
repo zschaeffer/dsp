@@ -1,6 +1,6 @@
-##[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
+## [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
 
-###[What Is Markdown? 4 Reasons Why You Should Learn It Now](http://www.makeuseof.com/tag/markdown-4-reasons-learn-now/)  
+### [What Is Markdown? 4 Reasons Why You Should Learn It Now](http://www.makeuseof.com/tag/markdown-4-reasons-learn-now/)  
 Markdown is a simple way to add formatting — like headers, bold/italic text, and lists — to plain text. Rather than relying on HTML or WYSIWYG editors, Markdown allows you to create full pages of formatted text without ever having to remove your fingers from the keyboard, and all in a way that’s much more intuitive than HTML.  
 
 ---
@@ -51,9 +51,7 @@ Code for line separators:
 
 ```
 Rule #1 
-
 ---
-
 Rule #2
 *******
 Rule #3
