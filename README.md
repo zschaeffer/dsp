@@ -5,8 +5,7 @@
 
 [1. Computer Requirements](#section-a)  
 [2. Pre-work Exercises](#section-b)  
-[3. Submitting Pre-work](#section-c)  
-[4. FAQs](#section-d)  
+[3. FAQs](#section-c)  
 
 ---
 
@@ -59,13 +58,10 @@ Metis data science bootcamp. Students should budget **60+ hours** to complete th
 
 ---
 
-## <a name="section-c"></a>3.  Submitting Pre-work
+## <a name="section-c"></a>3.  FAQs
 
+**Q:  How do I submit pre-work?**   
 Make all changes to your forked repo; **this is considered your pre-work submission.**  (No need to submit pull requests to the thisismetis/dsp repo.)
-
----
-
-## <a name="section-d"></a>4.  FAQs
 
 **Q:  Can I discuss prework with other students in the course?**  
 A:  Yes
