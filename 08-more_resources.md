@@ -2,7 +2,7 @@
 
 ## Part I:  Bootcamp Experience (recommended)
 
-### [1)  Blogs](/resources/student_blogs.md)
+### [Blogs](/resources/student_blogs.md)
 (Estimated completion time:  10 minutes)
 
 Read some blogs from our alumni on their experience during the data science bootcamp.
