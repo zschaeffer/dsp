@@ -3,6 +3,7 @@
 # [Metis](http://www.thisismetis.com/) Data Science Bootcamp Pre-work
 # Table of Contents
 
+[0. Computer Requirements](#section-z)  
 [1. Pre-work Exercises](#section-a)  
 [2. Submitting Pre-work](#section-b)  
 [3. Mac vs Windows](#section-c)  
