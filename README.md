@@ -38,7 +38,7 @@ Metis data science bootcamp. Students should budget **60+ hours** to complete th
  
  Step 3. [Learn command line](03-command_line.md)  
  
- Step 4. [Set up your repository on GitHub](04-set_up_repo.md)
+ Step 4. [Set up your repository on GitHub](04-git.md)
  
  Step 5. Python  
  
