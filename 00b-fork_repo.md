@@ -3,7 +3,7 @@
 You have two options to complete parts 1-3 (Install, Editors, Command Line).  
  * Option 1 (_Beginner_):  Edit markdown files directly on GitHub.  (Follow the instructions below).  
  * Option 2 (_Intermediate_): Edit files using `git pull` and `git push`.  
-    - Follow "Set Up Repo on GitHub" [Step 4: Set up repo ](04-set_up_repo.md)
+    - Follow "Set Up Repo on GitHub" [Step 4: Set up repo ](04-git.md)
     - Watch the 10-minute video on *Getting Started with Git* 
 
 The process below is designed to be accessible to anyone regardless of background in `git`.  
