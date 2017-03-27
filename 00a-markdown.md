@@ -4,6 +4,12 @@
 - It is relevant to learn Markdown so the pre-work can be submitted in an easy-to-read format.  
 - During the bootcamp, you will create a blog on an open source tool and the blogs will be written in Markdown
 
+## Instructions
+Read this document and use the Markdown syntax to write up your pre-work solutions.
+
+## Deliverable
+Markdown syntax will be seen in subsequent pre-work file submissions.  
+
 ---
 
 ## Introduction
