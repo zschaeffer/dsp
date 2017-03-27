@@ -18,7 +18,6 @@ Markdown is a simple way to add formatting — like headers, bold/italic text, a
 [6)  Links](#section-f)  
 [7)  Block Code, Language-specific](#section-g)  
 [8)  Tables](#section-h)  
-[9)  Practice Examples](#section-i)  
 [References](#section-r)
 
 ---
@@ -156,46 +155,6 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
-
----
-
-## <a name="section-i"></a>9) Practice Examples 
-
-#### Data Science Trivia 
-
-#### Q1.  
-What is the most installed language in the world?  
-- Python
-- SAS
-- R
-- Spark
-- Javascript
-
->>REPLACE THIS TEXT WITH YOUR RESPONSE
-
-***
-
-#### Q2.  
-In hypothesis testing, we use the t score when the sample size is < 30 and the populations SD is unknown; else we use the Z score. 
-What is the distribution of t-squared?
- * Normal
- * F
- * Chi-squared
- * Beta
- * Bivariate Normal
-
->>REPLACE THIS TEXT WITH YOUR RESPONSE
-
----
-
-#### Q3.  
-In the scikit-learn's official source repo, about how many issues are outstanding? (go ahead and check out their page)  
-1. 7  
-2. 70  
-3. 700  
-4. 7000  
-
->>REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
