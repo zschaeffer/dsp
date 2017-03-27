@@ -139,7 +139,7 @@ Block code that is **sql**-specific:
 SELECT * FROM Customers WHERE Country='Sweden';
 ```
 
-####Yes, this works for scores of other languages:  [Syntax highlighting in markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown) 
+#### Yes, this works for scores of other languages:  [Syntax highlighting in markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown) 
 
 ---
 
