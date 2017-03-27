@@ -1,5 +1,12 @@
 # [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
 
+## Objective
+- It is relevant to learn Markdown so the pre-work can be submitted in an easy-to-read format.  
+- During the bootcamp, you will create a blog on an open source tool and the blogs will be written in Markdown
+
+---
+
+## Introduction
 ### [What Is Markdown? 4 Reasons Why You Should Learn It Now](http://www.makeuseof.com/tag/markdown-4-reasons-learn-now/)  
 Markdown is a simple way to add formatting — like headers, bold/italic text, and lists — to plain text. Rather than relying on HTML or WYSIWYG editors, Markdown allows you to create full pages of formatted text without ever having to remove your fingers from the keyboard, and all in a way that’s much more intuitive than HTML.  
 
