@@ -1,18 +1,12 @@
-# Getting Started with Git and GitHub
+# Getting Started with GitHub
 
 You have two options to complete parts 1-3 (Install, Editors, Command Line).  
  * Option 1 (_Beginner_):  Edit markdown files directly on GitHub.  (Follow the instructions below).  
- * Option 2 (_Intermediate_): Edit files using GitHub pull/pull.  Follow "Set Up Repo on GitHub" [Step 4: Set up repo ](04-set_up_repo.md)
+ * Option 2 (_Intermediate_): Edit files using `git pull` and `git push`.  
+    - Follow "Set Up Repo on GitHub" [Step 4: Set up repo ](04-set_up_repo.md)
+    - Watch the 10-minute video on *Getting Started with Git* 
 
 The process below is designed to be accessible to anyone regardless of background in `git`.  
-
----
-
-# Git and GitHub:  What's the Difference?  
-
-**Git** is a system for version control. It runs at the command line on your local machine and allows you to keep track of your files and modifications in a "repository". 
-
-**GitHub** is a website that allows you to upload your git respositories online. It allows you to have a backup of your files, has a visual interface to navigate your repos, and it allows other people (us!) to be able to view your repos. 
 
 ---
 
