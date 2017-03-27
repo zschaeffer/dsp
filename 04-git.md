@@ -10,7 +10,7 @@ Before you start, please take 15 minutes to [Try Git](https://try.github.io/leve
 
 ---
 
-## Step 1: Fork this repository
+## Step 0: Forked repository (you've done this already)
 
 Click the **Fork** button at the upper right hand corner of the page:
 
@@ -20,7 +20,7 @@ This makes a personal copy of the repository. Your forked copies will show up in
 
 This repository is `thisismetis/dsp`. Your forked copy will be `your_github_user_name/dsp`.
 
-## Step 2: Clone the repository locally
+## Step 1: Clone the repository locally
 
 This makes a copy of the repository in your laptop. Click on the clipboard image on the right sidebar to copy the HTTPS clone URL. 
 
@@ -46,7 +46,7 @@ And now `cd` into the `/dsp` folder. Your terminal window should now show show s
 
 ![git](img/git.png)
 
-## Step 3: `add`ing, `commit`ting and `push`ing
+## Step 2: `add`ing, `commit`ting and `push`ing
 
 In this step, you will be using both the terminal and your favorite text editor.  
 
@@ -80,7 +80,7 @@ There's four basic commands you should get familiar with:
 Let's put this all together now!
 
 
-### 3a. `git status`
+### 2a. `git status`
 
 In your local repository, edit the files for the problem statement with your solution.  
 
@@ -91,7 +91,7 @@ Go to your terminal. If you type `$ git status`, you should get a message like t
 This means that you have **modified** the files that appear there. This is what is called the **staging** area. Any files you modify will appear here. 
 
 
-### 3b. `git add`
+### 2b. `git add`
 
 If you are ready with the changes, then it's time to `git add` the files. 
 
@@ -105,7 +105,7 @@ If you type `$ git status` again, you should get something like this:
 
 As you can see, your changes are now ready to be `commit`ted. 
 
-### 3c. `git commit`
+### 2c. `git commit`
 
 Once you're ready to save the files, then it's time to `git commit` them.  
 
@@ -113,7 +113,7 @@ Once you're ready to save the files, then it's time to `git commit` them.
 
 The message should be descriptive enough, but also short and sweet. It is strongly recommended that you commit often, as this will save your work and will help you keep track of changes easier.   
 
-### 3d. `git push`
+### 2d. `git push`
 
 Once you're done with the challenge, it's time to show your work in your remote GitHub repository. Let's `git push`.
 
