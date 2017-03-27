@@ -1,6 +1,6 @@
 # Using Git at Command Line
 
-# :boom: Git 10-minute Video :boom: 
+## :boom: Git 10-minute Video :boom: 
 
 >**Watch this [10-minute video, *Getting Started with Git*](https://vimeo.com/178481263?mc_cid=06d951b22e&mc_eid=[UNIQID]), which covers all the steps below.** 
 The [list of commands used in the video](/resources/git_video_history.md) are available.
@@ -80,7 +80,7 @@ There's four basic commands you should get familiar with:
 Let's put this all together now!
 
 
-**3a. `git status`**
+### 3a. `git status`
 
 In your local repository, edit the files for the problem statement with your solution.  
 
@@ -91,7 +91,7 @@ Go to your terminal. If you type `$ git status`, you should get a message like t
 This means that you have **modified** the files that appear there. This is what is called the **staging** area. Any files you modify will appear here. 
 
 
-**3b. `git add`**
+### 3b. `git add`
 
 If you are ready with the changes, then it's time to `git add` the files. 
 
@@ -105,7 +105,7 @@ If you type `$ git status` again, you should get something like this:
 
 As you can see, your changes are now ready to be `commit`ted. 
 
-**3c. `git commit`**
+### 3c. `git commit`
 
 Once you're ready to save the files, then it's time to `git commit` them.  
 
@@ -113,7 +113,7 @@ Once you're ready to save the files, then it's time to `git commit` them.
 
 The message should be descriptive enough, but also short and sweet. It is strongly recommended that you commit often, as this will save your work and will help you keep track of changes easier.   
 
-**3d. `git push`** 
+### 3d. `git push`
 
 Once you're done with the challenge, it's time to show your work in your remote GitHub repository. Let's `git push`.
 
@@ -129,7 +129,7 @@ GitHub has some great documentation, along with this really awesome [cheat sheet
 
 ---
 
-### Deepen your knowledge
+## Deepen your knowledge
 
 The process above is designed to be accessible to anyone regardless of background. There is much more to learn about `git` and GitHub.
 
