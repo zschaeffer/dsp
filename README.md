@@ -41,7 +41,11 @@ Metis data science bootcamp. Students should budget **60+ hours** to complete th
  
  >Step 5b. [Advanced Python](05b-python_advanced.md)  
  
+<<<<<<< HEAD
  >Step 5c. [Python Pandas](05c-python_pandas.md)  
+=======
+ >Step 5c. [Python Pandas](05c-python_pandas.md)
+>>>>>>> 7f936bab19201150d1e7ecb528a57c77b51824c8
  
  Step 6. [Linear Algebra](06-linear_algebra.md)
  
@@ -111,14 +115,21 @@ If you have a lot of familiarity with Linux (say > 1 year), then you may install
 
 ---
 
-## <a name="section-d"></a>4.  Mac Specs
+## <a name="section-d"></a>4.  Computer Specs
 
+Laptop that has access to Unix operating system (Mac or Ubuntu) with these minimum specs:
+- memory: at least 4GB RAM
+- processor: at least 2GHz
+- storage: at least 100 GB HD
+
+
+### Docker
 We will be using [Docker](https://www.docker.com/what-docker) for software installations during the bootcamp.  
 
-### Docker on Mac
+#### Docker on Mac
 Running Docker for Mac requires Mac OS X 10.10.3 Yosemite or newer. Your Mac must be a 2010 or newer model, with Intel’s hardware support for memory management unit (MMU) virtualization; i.e., Extended.
 
-### Docker on AWS Ubuntu
+#### Docker on AWS Ubuntu
 There is the option to install Docker on an AWS Ubuntu instance.  
 
 
