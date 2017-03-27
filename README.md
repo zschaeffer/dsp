@@ -12,7 +12,7 @@
 
 ## <a name="section-a"></a>1.  Computer Requirements
 
-Review this [computer requirements fact](resources/computer_requirements.md) sheet on hardware requirements.  
+Review the [computer requirements](resources/computer_requirements.md) on hardware needed for the bootcamp.  
 
 ---
 
