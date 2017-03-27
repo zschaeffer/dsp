@@ -1,4 +1,11 @@
-# Set up your repository on GitHub
+# Using Git at Command Line
+
+# :boom: Git 10-minute Video :boom: 
+
+>**Watch this [10-minute video, *Getting Started with Git*](https://vimeo.com/178481263?mc_cid=06d951b22e&mc_eid=[UNIQID]), which covers all the steps below.** 
+The [list of commands used in the video](/resources/git_video_history.md) are available.
+
+---
 
 Before you start, please take 15 minutes to [Try Git](https://try.github.io/levels/1/challenges/1). It does a great job at explaining the basic concepts, which we will be using for this part of the pre-work. 
 
