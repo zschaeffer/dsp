@@ -1,29 +1,17 @@
 # More Resources
 
-## Part I:  Data Science Tools (required)
-
-### [Markdown](/resources/markdown.md)
-(Estimated completion time:  1 hour)
-
----
-
-## Part II:  Bootcamp Experience (recommended)
+## Part I:  Bootcamp Experience (recommended)
 
 ### [1)  Blogs](/resources/student_blogs.md)
 (Estimated completion time:  10 minutes)
 
 Read some blogs from our alumni on their experience during the data science bootcamp.
 
-### 2)  Jupyter Notebook
-* [Installation](/resources/jupyter_notebook_1_install.md)
-* [Getting Started](/resources/jupyter_notebook_2_use.md)  
-(Estimated completion time:  1 hour)
-
 ---
 
-## Part III:  Additional Reading (recommended)
+## Part II:  Additional Reading (recommended)
 
-###[Python Style Guide](https://www.python.org/dev/peps/pep-0008/#naming-conventions)
+### [Python Style Guide](https://www.python.org/dev/peps/pep-0008/#naming-conventions)
 One of Guido's key insights is that code is read much more often than it is written. The guidelines provided here are intended to improve the readability of code and make it consistent across the wide spectrum of Python code. As PEP 20 says, "Readability counts".
 
 A style guide is about consistency. Consistency with this style guide is important. Consistency within a project is more important. Consistency within one module or function is the most important. 
