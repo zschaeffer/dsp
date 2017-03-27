@@ -23,9 +23,10 @@ Metis data science bootcamp. Students should budget **60+ hours** to complete th
 
 **All exercises _must_ be completed before the first day of class.**
 
- Step 0.  [Review Markdown formatting before beginning work](/resources/markdown.md) 
+ Step 0.  Getting Started
+ >Step 0a. [Review Markdown formatting before beginning work](00a-markdown.md) 
  
- Step 0.5 [Fork Repo](00-fork_repo.md)
+ >Step 0b. [Fork Repo](00b-fork_repo.md)
  
  Step 1.  Installation  
  
