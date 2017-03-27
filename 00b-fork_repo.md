@@ -1,5 +1,15 @@
 # Getting Started with GitHub
 
+## Objective
+Github is the most widely used open-source system for version control.  All course documents are stored in a GitHub repository which will be used daily during the bootcamp.  
+
+## Deliverable
+- your own forked version of this repository
+- answer Q1 at end of this file
+- add your forked repository link to the class roster
+
+---
+
 You have two options to complete parts 1-3 (Install, Editors, Command Line).  
  * Option 1 (_Beginner_):  Edit markdown files directly on GitHub.  (Follow the instructions below).  
  * Option 2 (_Intermediate_): Edit files using `git pull` and `git push`.  
