@@ -33,7 +33,7 @@ Think Stats uses a higher degree of python complexity from the python tutorials 
 ---
 
 ## <a name="section-c"></a>3.  Instructions for Cloning the Repo 
-Using the code referenced in the book, follow the step-by-step instructions below.  
+Using the [code referenced in the book](https://github.com/AllenDowney/ThinkStats2), follow the step-by-step instructions below.  
 
 **Step 1. Create a directory on your computer where you will do the prework.  Below is an example:**
 
