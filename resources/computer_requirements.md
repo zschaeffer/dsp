@@ -13,6 +13,10 @@ You will need a laptop that has access to Unix operating system (Mac or Ubuntu) 
 - processor: at least 2GHz
 - storage: at least 100 GB HD
 
+### Notes
+- **Chromebooks** are not adequate for use in the bootcamp
+- **Windows 10** can optionally run Ubuntu simultaneously. However, this option is currently **not recommended** as there are subtle differences between this setup, which simultaneously runs both operating systems, and a virtual machine or a dual boot system. If students choose to try it, they should be warned that instructors may not be able to assist them and they may need to switch to a real virtual machine if problems persist. 
+
 ---
 
 ## <a name="section-b"></a>2.  Mac vs Windows
