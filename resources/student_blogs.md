@@ -1,4 +1,4 @@
-## Metis Data Science Bootcamp:  Blogs
+# Metis Data Science Bootcamp:  Blogs
 
 You'll find the following blogs helpful in learning more about your upcoming experience at Metis.
 
