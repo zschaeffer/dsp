@@ -4,9 +4,9 @@
 # Table of Contents
 
 [1. Computer Requirements](#section-a)  
-[2. Pre-work Overview](#section-b)
-[2. Pre-work Exercises](#section-c)  
-[3. FAQs](#section-d)  
+[2. Pre-work Overview](#section-b)  
+[3. Pre-work Exercises](#section-c)  
+[4. FAQs](#section-d)  
 
 ---
 
