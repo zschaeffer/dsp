@@ -17,14 +17,13 @@ Review the [computer requirements](resources/computer_requirements.md) on hardwa
 ---
 
 ## <a name="section-b"></a>2.  Pre-work Overview
+
 What can I do to get ready before the bootcamp starts?
 
-Completing the pre-work is essential to obtaining the foundational knowledge necessary to succeed in the Metis data science bootcamp.  Each student should expect to spend **60 hours** of tutorials to become familiar with software installation, editors, command line, Python (numpy, pandas, etc.), linear algebra and statistics.  
+Completing the pre-work is essential to obtaining the foundational knowledge necessary to succeed in the Metis data science bootcamp.  Each student should expect to spend **60+ hours of tutorials** to become familiar with software installation, editors, command line, Python (numpy, pandas, etc.), linear algebra and statistics.  
 
 
 ## <a name="section-c"></a>3.  Pre-work Exercises
-
-Students should budget **60+ hours** to complete the pre-work.
 
 **All exercises _must_ be completed before the first day of class.**
 
