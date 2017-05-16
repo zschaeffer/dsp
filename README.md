@@ -4,7 +4,7 @@
 # Table of Contents
 
 [1. Computer Requirements](#section-a)  
-[2. Pre-work Overview](#section-b)  
+[2. Overview](#section-b)  
 [3. Pre-work Exercises](#section-c)  
 [4. FAQs](#section-d)  
 
@@ -16,7 +16,7 @@ Review the [computer requirements](resources/computer_requirements.md) on hardwa
 
 ---
 
-## <a name="section-b"></a>2.  Pre-work Overview
+## <a name="section-b"></a>2.  Overview
 
 What can I do to get ready before the bootcamp starts?
 
