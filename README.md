@@ -76,8 +76,8 @@ Completing the pre-work is essential to obtaining the foundational knowledge nec
 * Statistics
   * Make all changes to your forked repo
 
-#### Q:  Can I discuss prework with other students in the course?**  
+#### Q:  Can I discuss prework with other students in the course?
 Yes
 
-#### Q:  Can I ask for hints for python questions?**  
+#### Q:  Can I ask for hints for python questions?
 Yes
