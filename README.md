@@ -71,6 +71,8 @@ Completing the pre-work is essential to obtaining the foundational knowledge nec
 **Q:  How do I submit pre-work?**   
 Make all changes to your forked repo; **this is considered your pre-work submission.**  (No need to submit pull requests to the thisismetis/dsp repo.)
 
+Python - use your forked repo for scratch work.
+
 **Q:  Can I discuss prework with other students in the course?**  
 Yes
 
