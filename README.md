@@ -68,7 +68,7 @@ Completing the pre-work is essential to obtaining the foundational knowledge nec
 
 ## <a name="section-d"></a>4.  FAQs
 
-### Q:  How do I submit pre-work?  
+#### Q:  How do I submit pre-work?  
 * Sections 0 to 4
   * Make all changes to your forked repo; **this is considered your pre-work submission.**  (No need to submit pull requests to the thisismetis/dsp repo.)
 * Python
@@ -76,8 +76,8 @@ Completing the pre-work is essential to obtaining the foundational knowledge nec
 * Statistics
   * Make all changes to your forked repo
 
-### Q:  Can I discuss prework with other students in the course?**  
+#### Q:  Can I discuss prework with other students in the course?**  
 Yes
 
-### Q:  Can I ask for hints for python questions?**  
+#### Q:  Can I ask for hints for python questions?**  
 Yes
