@@ -46,12 +46,12 @@ You will probably spend most of your time with access to a graphical interface, 
 
 Popular editors and IDEs include:
 
- * Emacs
- * vim
- * Sublime
- * Atom
- * Spyder
- * PyCharm
+ * [Emacs](http://ocean.stanford.edu/research/quick_emacs.html)
+ * [vim](http://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/)
+ * [Sublime Text 3](https://www.sublimetext.com/)
+ * [Atom](https://atom.io/)
+ * [Spyder](https://spyder-ide.github.io/)
+ * [PyCharm](https://www.jetbrains.com/pycharm/)
  * [Rodeo](http://blog.yhat.com/posts/introducing-rodeo.html)
 
 If you choose Emacs or vim, you will have essentially the same editor experience across graphical and non-graphical environments, which is nice. It's also nice to be able to work without ever having to use a mouse. Emacs and vim have somewhat steep learning curves, but they give you the ability to customize your environment quite a lot to make it exactly what you want.
@@ -60,7 +60,7 @@ Sublime is probably the most popular editor for new coders. You can set it up to
 
 Spyder and PyCharm are IDEs for Python. They try to give you a fully configured setup out of the box.
 
-We will also use Jupyter (IPython) notebooks, but this does not remove the need for proficiency in an editor or IDE.
+We will also use Jupyter notebooks, but this does not remove the need for proficiency in an editor or IDE.
 
 ---
 
