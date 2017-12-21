@@ -16,7 +16,7 @@ $ jupyter notebook
 We will now update all the packages/libraries installed by anaconda to ensure you have the latest version of everything!
 
 ```{bash}
-$ conda update all
+$ conda update --all
 ```
 
 ### Run the Notebook at Terminal Prompt  
