@@ -11,6 +11,8 @@ Macbooks have git pre-installed.
 
 ### Install [Anaconda](http://continuum.io/downloads).
 
+Please install the **3.6 version** if possible.
+
 There are two things you can verify to check your install.
 
 First, from the command line, all of the following should start up
