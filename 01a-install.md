@@ -37,11 +37,7 @@ import statsmodels
 import sklearn
 ```
 
-### Install [Homebrew](http://brew.sh/) on Mac _(optional)_
-
-For users who are already familiar with package managers, you may prefer to install Homebrew.
-
-However, this is completely optional as Anaconda is an all-in-one package manager.
+### Install [Homebrew](http://brew.sh/) on Mac 
 
 ---
 
