@@ -1,6 +1,7 @@
-![Metis logo](img/metis.png)
+# Data Science Bootcamp Pre-work Revision 2019
 
-# [Metis](http://www.thisismetis.com/) Data Science Bootcamp Pre-work
+Track progress [here](https://github.com/thisismetis/dsp_revision/projects/1)
+
 # Table of Contents
 
 [1. Computer Requirements](#section-a)  
@@ -30,37 +31,23 @@ Completing the pre-work is essential to obtaining the foundational knowledge nec
 
 **All exercises _must_ be completed before the first day of class.**
 
- Step 0.  Getting Started
- 
- >Step 0a. [Markdown](00a-markdown.md) 
- 
- >Step 0b. [Fork GitHub Repo](00b-fork_repo.md)
- 
- Step 1.  Installation  
- 
- >Step 1a. [Install software on your computer](01a-install.md)  
- 
- >Step 1b. [Install Jupyter Notebook on your computer](01b-install_jupyter.md)  
- 
- Step 2. [Choose and learn your editor(s)](02-editors.md)
- 
- Step 3. [Learn command line](03-command_line.md)  
- 
- Step 4. [Git and GitHub](04-git.md)
- 
- Step 5. Python  
- 
- >Step 5a. [Learn Python](05a-python.md)  
- 
- >Step 5b. [Advanced Python](05b-python_advanced.md)  
- 
- >Step 5c. [Python Pandas](05c-python_pandas.md)  
-
- Step 6. [Linear Algebra](06-linear_algebra.md)
- 
- Step 7. [Statistics](07-statistics.md)
- 
- Step 8. [More Resources](08-more_resources.md)
+- Step 0.  Getting Started
+    - Step 0a. [Markdown](lessons/markdown) 
+    - Step 0b. [Fork GitHub Repo](lessons/git_fork)
+- Step 1.  Installation  
+    - Step 1a. [Install software on your computer](lessons/install)  
+    - Step 1b. [Install Jupyter Notebook on your computer](lessons/install_jupyter)  
+- Step 2. [Choose and learn your editor(s)](lessons/editors)
+- Step 3. [Learn command line](lessons/command_line)  
+- Step 4. [Git and GitHub](lessons/git_intro)
+    - Step 4b [Git Branching](lessons/git_branches)
+- Step 5. Python  
+    - Step 5a. [Learn Python](lessons/python_intro)  
+    - Step 5b. [Advanced Python](lessons/python_advanced)  
+    - Step 5c. [Python Pandas](lessons/pandas_intro)  
+- Step 6. [Linear Algebra](lessons/linear_algebra)
+- Step 7. [Statistics](lessons/statistics)
+- Step 8. [More Resources](lessons/more_resources)
 
 ![save your work](img/save_your_work.png)
 
