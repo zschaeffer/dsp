@@ -57,7 +57,10 @@ Completing the pre-work is essential to obtaining the foundational knowledge nec
 
 #### Q:  How do I submit pre-work?  
 * Sections 0 to 4
-  * Make all changes to your forked repo; **this is considered your pre-work submission.**  (No need to submit pull requests to the thisismetis/dsp repo.)
+  * Fork the dsp repo **this is covered in the GitHub section**
+  * Clone your forked dsp repo to your local PC 
+  * Run Jupyter on your local and make all changes
+  * Push all changes to your forked repo on GitHub; **this is considered your pre-work submission.**  (No need to submit pull requests to the thisismetis/dsp repo.)
 * Python
   * use your forked repo for scratch work only
 * Statistics
