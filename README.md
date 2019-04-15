@@ -1,8 +1,6 @@
 # Data Science Bootcamp Pre-work Revision 2019
 
-Track progress [here](https://github.com/thisismetis/dsp_revision/projects/1)
-
-# Table of Contents
+**Table of Contents**
 
 [1. Computer Requirements](#section-a)  
 [2. Overview](#section-b)  
