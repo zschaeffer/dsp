@@ -13,7 +13,7 @@ The Unix command line is an interface for talking to your computer, usually thro
 
 There are a number of different "flavors" of shell with slightly different command line syntax for the standard (and other) commands.  The most common flavor of shell these days is **Bash**, and that's what we'll be assuming in this course and this tutorial.  Bash is the default for Terminal on a Mac.  When you open up a shell, you're ready to start typing commands and the computer will respond to these commands via the underlying Unix **Kernel** (the core of the operating system).
 
-### <a href='windows'></a>For Windows Users
+### <a href='#windows'></a>For Windows Users
 Windows has its own operating system kernel and thus its own "shell" for running commands.  In order to use Unix style commands on Windows, you'll need to download some sort of **Unix Command Line Emulator**, for instance [**Cygwin**]().
 
 ### The Unix Directory Structure
