@@ -18,7 +18,7 @@ Windows has its own operating system kernel and thus its own "shell" for running
 
 ### The Unix Directory Structure
 Unix-based filesystems will have a (mostly) common shared directory structure.  It should look something like the following:  
-<img src="img/unix_fs.jpg"/>
+<img src="https://github.com/vaughnparker/dsp/blob/master/img/unix_tree_public_domain.jpg"/>
 
 #### The `bin` directory
 Contains binaries for running many of the commands that you'll type at the command line.  When you type a command, the `/bin` directory is one of the main places that the operating system will search to know what you're asking it to do.  If it finds a matching **executable** (a runnable program matching the command name given), then it will run that.
