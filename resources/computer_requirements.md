@@ -9,7 +9,7 @@
 ## <a name="section-a"></a>1.  Computer Specs
 
 You will need a laptop that has access to Unix operating system (Mac or Ubuntu) with these *at least these minimum* specs:
-- memory: at least 4GB RAM
+- memory: at least 8GB RAM
 - processor: at least 2GHz
 - storage: at least 100 GB HD
 
