@@ -194,6 +194,7 @@ ls -lh
 ```
 
 > What changed?
+'''Units for file size now include B or H'''
 
 If instead copying we just want to change the name of a file, we can do:
 
